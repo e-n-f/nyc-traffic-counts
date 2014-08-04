@@ -564,3 +564,55 @@ S: PM 199 + 262
 W: PM 21 + 32
 
 XXX more complicated intersections, more times
+
+
+
+/Users/enf/traffic/nyc-traffic-counts/nyc/2011_seniors_greenpoint_final_report.pdf 
+60 min
+
+- Banker St and N 15th St
+N: AM 25 PM 20
+S: AM 3 PM 42
+E: AM 3 PM 8
+W: AM 3 PM 16
+
+- Driggs Ave and N 7th St
+N: AM 50 PM 51
+S: AM 104 PM 171
+E: AM 183 PM 169
+W: AM 82 PM 81
+
+- Bedford Ave and N 4th St
+N: AM 65 PM 90
+S: AM 27 PM 77
+E: AM 442 PM 609
+W: AM 384 PM 128
+
+- Bedford Ave and N 5th St
+N: AM 63 PM 58
+S: AM 53 PM 73
+E: AM 606 PM 717
+W: AM 128 PM 398
+
+- Bedford Ave and N 7th St
+N: AM 269 PM 447
+S: AM 185 PM 365
+E: AM 172 PM 392
+W: AM 149 PM 333
+
+- Bedford Ave and N 9th St
+N: AM 45 PM 50
+S: AM 53 PM 87
+E: AM 346 PM 391
+W: AM 263 PM 365
+
+- Bedford Ave and N 10th St
+N: AM 19 PM 32
+S: AM 32 PM 31
+E: AM 294 PM 403
+W: AM 281 PM 333
+
+- Nassau Ave and Banker St:
+N: AM 72 PM 90
+E: AM 266 PM 33
+W: AM 389 PM 30

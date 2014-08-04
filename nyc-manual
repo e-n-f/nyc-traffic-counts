@@ -344,6 +344,8 @@ E: MD 658
 S: MD 1334
 W: MD 464
 
+XXX only LOS D+ crosswalks reported
+
 
 /Users/enf/traffic/nyc-traffic-counts/nyc/0316_feis.pdf 
 15 min
@@ -460,3 +462,105 @@ E: AM 67 MD 78 PM 60
 N: AM 176 MD 206 PM 282 
 W: AM 60 MD 69 PM 50 
 S: AM 231 MD 215 PM 297 
+
+
+/Users/enf/traffic/nyc-traffic-counts/nyc/2011_bowery-houston-bleecker_study-technical-memo1.pdf 
+60 min
+
+- 8th St / Astor Place / 4th Ave
+N: PM 1249 + 987
+E: PM 108 + 57
+S: PM 1029 + 504
+W: PM 141 + 437
+
+- Bleecker and Lafayette
+
+N: PM 424 + 229
+E: PM 56 + 107
+S: PM 536 + 274
+W: PM 338 + 585
+
+- Houston and Broadway
+
+N: PM 580 + 421
+E: PM 473 + 562
+S: PM 227 + 255
+W: PM 499 + 668
+
+- Houston and Bowery
+
+N: PM 198 + 156
+E: PM 291 + 272
+S: PM 380 + 281
+W: PM 162 + 197
+
+- 1st Ave and Houston
+
+N: PM 251 + 164
+E: PM 114 + 153
+S: PM 558 + 500
+W: PM 157 + 158
+
+- Essex and Delancey
+
+N: PM 397 + 548
+E: PM 166 + 231
+S: PM 105 + 219
+W: PM 255 + 206
+
+XXX more times
+
+
+/Users/enf/traffic/nyc-traffic-counts/nyc/2011_northern-brownsville-study.pdf 
+60 min
+
+- Thomas Boyland Ave and Atlantic Ave
+
+N: PM 8 + 20
+E: PM 84 + 92
+S: PM 34 + 33
+W: PM 50 + 145
+
+- Rockaway Ave and Atlantic Ave
+
+N: PM 14 + 17
+E: PM 37 + 41
+S: PM 29 + 29
+W: PM 53 + 120
+
+- Rockaway Ave and Dean St
+
+N: PM 13 + 10
+E: PM 30 + 22
+S: PM 6 + 9
+W: PM 36 + 51
+
+- Thomas Boyland Ave and Bergen St
+
+N: PM 17 + 9
+E: PM 84 + 30
+S: PM 8 + 10
+W: PM 39 + 35
+
+- Mother Gaston Blvd and New York Ave
+
+N: PM 8 + 11
+E: PM 9 + 6
+S: PM 7 + 17
+W: PM 48 + 53
+
+- Rockaway Ave and Pitkin Ave
+
+N: PM 99 + 133
+E: PM 96 + 86
+S: PM 156 + 153
+W: PM 118 + 127
+
+- Hopkinson Ave and Pitkin Ave
+
+N: PM 143 + 143
+E: PM 36 + 42
+S: PM 199 + 262
+W: PM 21 + 32
+
+XXX more complicated intersections, more times

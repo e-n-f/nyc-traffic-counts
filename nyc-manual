@@ -957,3 +957,161 @@ S: PM 2135
 E: PM 2650
 W: PM 2445
 total: PM 8864
+
+/Users/enf/traffic/nyc-traffic-counts/nyc/2012-10-hamilton-heights-safe-seniors-report.pdf 
+60 min
+
+- Broadway and 145th Street
+N: AM 449
+S: AM 297
+E: AM 391
+W: AM 574
+total: AM 1711
+N: PM 530
+S: PM 525
+E: PM 613
+W: PM 896
+total: PM 2564
+- Broadway and 160th Street
+N: AM 97
+S: AM 174
+E: AM 182
+W: AM 143
+total: AM 596
+N: PM 122
+S: PM 108
+E: PM 395
+W: PM 517
+total: PM 1142
+- Broadway and 166th Street
+N: AM 149
+S: AM 328
+E: AM 693
+N: PM 170
+S: PM 287
+E: PM 626
+- Amsterdam Avenue and 147th Street
+N: AM 110
+S: AM 196
+E: AM 196
+W: AM 568
+total: AM 1070
+N: PM 105
+S: PM 131
+E: PM 210
+W: PM 510
+total: PM 956
+- Amsterdam Avenue and 155th Street*
+N: AM 310
+S: AM 66
+E: AM 417
+W: AM 310
+total: AM 1103
+N: PM 134
+S: PM 89
+E: PM 199
+W: PM 312
+total: PM 734
+- St Nicholas Avenue and 165th Street
+N: AM 96
+S: AM 127
+E: AM 262
+W: AM 337
+total: AM 882
+N: PM 140
+S: PM 230
+E: PM 309
+W: PM 306
+total: PM 985
+- Audubon Avenue and 165th Street
+N: AM 205
+S: AM 127
+E: AM 262
+W: AM 337
+total: AM 931
+N: PM 241
+S: PM 230
+E: PM 309
+W: PM 306
+total: PM 1086
+
+/Users/enf/traffic/nyc-traffic-counts/nyc/2013-07-soundview-final-report.pdf 
+60 min
+
+- Tremont Ave and White Plains Rd
+N: AM 18 MD 8
+E: AM 21 MD 23
+S: AM 87 MD 75
+W: AM 9 MD 17
+
+- White Plains Rd and Archer St
+N: AM 220 MD 120
+E: AM 82 MD 39
+S: AM 134 MD 107
+W: AM 94 MD 47
+
+- Archer St and Leland Ave
+N: AM 304 MD 101
+E: AM 32 MD 30
+S: AM 160 MD 133
+W: AM 60 MD 28
+
+- Castle Hill Ave and Westchester Ave
+N: AM 307 MD 283
+E: AM 401 MD 293
+S: AM 370 MD 269
+W: AM 394 MD 302
+
+- Castle Hill Ave and Newbold Ave
+N: AM 84 MD 94
+E: AM 214 MD 253
+S: AM 86 MD 80
+W: AM 408 MD 343
+
+- Castle Hill Ave and Ellis Ave
+N: AM 16 MD 43
+E: AM 246 MD 196
+S: AM 33 MD 32
+W: AM 353 MD 101
+
+- Castle Hill Ave and Gleason Ave
+N: AM 47 MD 53
+E: AM 72 MD 30
+S: AM 270 MD 130
+W: AM 320 MD 229
+
+- Westchester Ave and Havermeyer Ave
+N: AM 107 MD 83
+E: AM 63 MD 61
+S: AM 81 MD 34
+W: AM 66 MD 23
+
+- Waterbury and Zerega
+N: AM 71 MD 61
+E: AM 18 MD 15
+S: AM 2 MD 9
+W: AM 66 MD 39
+
+- Zerega and Haviland
+N: AM 14 MD 13
+E: AM 26 MD 59
+S: AM 0 MD 3
+W: AM 22 MD 27
+
+- Castle Hill and Powell
+N: AM 56 MD 35
+E: AM 158 MD 99
+S: AM 264 MD 159
+W: AM 244 MD 153
+
+- Castle Hill and Story
+N: AM 30 MD 21
+E: AM 50 MD 35
+S: AM 7 MD 7
+W: AM 62 MD 59
+
+- Castle Hill and Lafayette
+N: AM 18 MD 14
+E: AM 60 MD 53
+S: AM 27 MD 49
+W: AM 58 MD 52

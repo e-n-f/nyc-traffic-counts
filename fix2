@@ -1,0 +1,21 @@
+#!/usr/bin/perl
+
+@legs = ( "N", "S", "E", "W", "total" );
+
+while (<>) {
+	chomp;
+
+	if (/^(MD|AM|PM)/) {
+		$prefix = $1;
+		$ix = 0;
+	}
+
+	if (/^[0-9\*]+$/) {
+		print "$legs[$ix++]: $prefix $_\n";
+	}
+
+	if (/and/) {
+		print "- $_\n";
+		$ix = 0;
+	}
+}

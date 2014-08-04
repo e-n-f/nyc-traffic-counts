@@ -1,0 +1,73 @@
+#!/usr/bin/perl
+
+$min = 15;
+
+while (<>) {
+	chomp;
+
+	if (/^\//) {
+		$source = $_;
+		$source =~ s/.*\///;
+		$min = 0;
+	} elsif (/^(\d+) min/) {
+		$min = $1;
+	} elsif (/^- (.*)/) {
+		$street = $1;
+	} elsif (s/^([NSEW])://) {
+		$dir = $1;
+
+		while (s/(AM|PM|MD) ([0-9+ ]+)//) {
+			$tod = $1;
+			$count = eval($2);
+
+			$val{$source}{$street}{$min}{$tod}{$dir} = $count;
+		}
+	}
+}
+
+for $source (keys(%val)) {
+	for $street (keys(%{$val{$source}})) {
+		for $min (keys(%{$val{$source}{$street}})) {
+			for $tod (keys(%{$val{$source}{$street}{$min}})) {
+				# guess about uncounted crosswalks
+				if ($val{$source}{$street}{$min}{$tod}{"N"} eq "") {
+					$val{$source}{$street}{$min}{$tod}{"N"} = $val{$source}{$street}{$min}{$tod}{"S"};
+				}
+				if ($val{$source}{$street}{$min}{$tod}{"S"} eq "") {
+					$val{$source}{$street}{$min}{$tod}{"S"} = $val{$source}{$street}{$min}{$tod}{"N"};
+				}
+				if ($val{$source}{$street}{$min}{$tod}{"E"} eq "") {
+					$val{$source}{$street}{$min}{$tod}{"E"} = $val{$source}{$street}{$min}{$tod}{"W"};
+				}
+				if ($val{$source}{$street}{$min}{$tod}{"W"} eq "") {
+					$val{$source}{$street}{$min}{$tod}{"W"} = $val{$source}{$street}{$min}{$tod}{"E"};
+				}
+
+				print "$source,$street,x,date,";
+
+				if ($tod eq "AM") {
+					$time = 9 * 60;
+				} elsif ($tod eq "PM") {
+					$time = 17 * 60;
+				} elsif ($tod eq "MD") {
+					$time = 12 * 60;
+				} else {
+					die "$tod";
+				}
+
+				printf("%02d:%02d-%02d:%02d,",
+					$time / 60, $time % 60,
+					($time + $min) / 60, ($time + $min) % 60);
+
+				print ",,,,,,,,,,,,";
+
+				for $dir ("N", "E", "S", "W") {
+					print $val{$source}{$street}{$min}{$tod}{$dir};
+					print ",";
+				}
+
+				print "\n";
+			}
+		}
+	}
+}

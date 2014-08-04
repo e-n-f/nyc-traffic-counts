@@ -699,3 +699,261 @@ N: AM 106 PM 79
 S: AM 111 PM 80
 E: AM 108 PM 27
 W: AM 104 PM 55
+
+
+/Users/enf/traffic/nyc-traffic-counts/nyc/2012-09-safe-street-seniors-west-midtown-final-report.pdf 
+60 min
+
+- 9th Avenue and W 33rd Street
+N: AM 426
+S: AM 1012
+E: AM 340
+W: AM 75
+N: MD 222
+S: MD 530
+E: MD 235
+W: MD 411
+N: PM 400
+S: PM 1663
+E: PM 345
+W: PM 230
+
+- 9th Avenue and W 41st Street
+N: AM 166
+S: AM 189
+E: AM 711
+W: AM 287
+N: MD 297
+S: MD 176
+E: MD 761
+W: MD 431
+total: MD 1665
+N: PM 343
+S: PM 161
+E: PM 1090
+W: PM 542
+total: PM 2136
+- 9th Avenue and W 42nd Street
+N: AM 859
+S: AM 591
+E: AM 626
+W: AM 545
+total: AM 2621
+N: MD 812
+S: MD 431
+E: MD 737
+W: MD 698
+total: MD 2678
+N: PM 1357
+S: PM 871
+E: PM 1454
+W: PM 903
+total: PM 4585
+- 9th Avenue and W 47th Street
+N: AM 72
+S: AM 80
+E: AM 175
+W: AM 124
+total: AM 1531
+N: MD 91
+S: MD 66
+E: MD 236
+W: MD 142
+total: MD 2092
+N: PM 107
+S: PM 123
+E: PM 306
+W: PM 189
+total: PM 2703
+- 9th Avenue and W 52nd Street
+N: AM 141
+S: AM 193
+E: AM 298
+W: AM 456
+total: AM 1088
+N: MD 131
+S: MD 169
+E: MD 314
+W: MD 471
+total: MD 1085
+N: PM 153
+S: PM 288
+E: PM 475
+W: PM 632
+total: PM 1548
+- 8th Avenue and W 31st Street
+N: AM 310
+S: AM 319
+E: AM 1183
+W: AM 493
+total: AM 2282
+N: MD 284
+S: MD 599
+E: MD 1232
+W: MD 850
+total: MD 2936
+N: PM 500
+S: PM 576
+E: PM 1857
+W: PM 787
+total: PM 3683
+- 8th Avenue and W 33rd Street
+N: AM 764
+S: AM 345
+E: AM 1208
+W: AM 540
+total: AM 2857
+N: MD 684
+S: MD 312
+E: MD 1399
+W: MD 692
+total: MD 3087
+N: PM 682
+S: PM 410
+E: PM 2725
+W: PM 721
+total: PM 4538
+- 8th Avenue and W 34th Street
+N: AM 1082
+S: AM 1927
+E: AM 2140
+W: AM 1637
+total: AM 6786
+N: MD 1311
+S: MD 3332
+E: MD 2354
+W: MD 1798
+total: MD 8795
+N: PM 1187
+S: PM 2725
+E: PM 3318
+W: PM 1284
+total: PM 8513
+- 8th Avenue and W 40th Street
+N: AM 2969
+S: AM 1317
+E: AM 1598
+W: AM 2919
+total: AM 8803
+N: MD 724
+S: MD 663
+E: MD 1667
+W: MD 1966
+total: MD 5020
+N: PM 2031
+S: PM 821
+E: PM 1755
+W: PM 3182
+total: PM 7789
+- 8th Avenue and W 42nd Street
+N: AM 1815
+S: AM 4217
+E: AM 4744
+W: AM 5056
+total: AM 15832
+N: MD 1264
+S: MD 1461
+E: MD 1784
+W: MD 2368
+total: MD 6877
+N: PM 2317
+S: PM 4821
+E: PM 3048
+W: PM 7920
+total: PM 18106
+- 8th Avenue and W 43rd Street
+N: AM 309
+S: AM 737
+E: AM 2446
+W: AM 896
+total: AM 4388
+N: MD 283
+S: MD 449
+E: MD 960
+W: MD 525
+total: MD 2217
+N: PM 620
+S: PM 900
+E: PM 2472
+W: PM 4132
+total: PM 8124
+- 8th Avenue and W 47th Street
+N: AM 336
+S: AM 352
+E: AM 1075
+W: AM 940
+total: AM 2703
+N: MD 542
+S: MD 473
+E: MD 1663
+W: MD 914
+total: MD 3592
+N: PM 525
+S: PM 547
+E: PM 2488
+W: PM 2349
+total: PM 5909
+- Broadway and W 42nd Street
+N: AM 77*
+S: AM 1472
+E: AM 1079
+W: AM 949
+total: AM 3577
+N: MD 50*
+S: MD 1805
+E: MD 2142
+W: MD 1493
+total: MD 5490
+N: PM 97*
+S: PM 2991
+E: PM 2741
+W: PM 1871
+total: PM 7700
+- 7th Avenue and W 31st Street
+N: AM 1809
+S: AM 1527
+E: AM 1807
+W: AM 1969
+total: AM 7112
+N: MD 973
+S: MD 1031
+E: MD 2042
+W: MD 2029
+total: MD 6075
+N: PM 1872
+S: PM 879
+E: PM 2302
+W: PM 2795
+total: PM 7848
+- 7th Avenue and W 42nd Street
+N: AM 1414
+S: AM 1743
+E: AM 1098
+W: AM 1861
+total: AM 6116
+N: MD 2294
+S: MD 2041
+E: MD 1356
+W: MD 3091
+total: MD 8782
+N: PM 2552
+S: PM 3404
+E: PM 2579
+W: PM 2790
+total: PM 11325
+- 7th Avenue and W 47th Street
+N: AM 793
+S: AM 901
+E: AM 1510
+W: AM 1388
+total: AM 4592
+N: MD 1501
+S: MD 1791
+E: MD 2441
+W: MD 1537
+total: MD 7270
+N: PM 1634
+S: PM 2135
+E: PM 2650
+W: PM 2445
+total: PM 8864

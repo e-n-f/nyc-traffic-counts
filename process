@@ -8,6 +8,7 @@ while (<>) {
 	if (/^\//) {
 		$source = $_;
 		$source =~ s/.*\///;
+		$source =~ s/\s*$//;
 		$min = 0;
 	} elsif (/^(\d+) min/) {
 		$min = $1;
@@ -31,16 +32,16 @@ for $source (keys(%val)) {
 			for $tod (keys(%{$val{$source}{$street}{$min}})) {
 				# guess about uncounted crosswalks
 				if ($val{$source}{$street}{$min}{$tod}{"N"} eq "") {
-					$val{$source}{$street}{$min}{$tod}{"N"} = $val{$source}{$street}{$min}{$tod}{"S"};
+					$val{$source}{$street}{$min}{$tod}{"N"} = $val{$source}{$street}{$min}{$tod}{"S"} . "(mirrored)";
 				}
 				if ($val{$source}{$street}{$min}{$tod}{"S"} eq "") {
-					$val{$source}{$street}{$min}{$tod}{"S"} = $val{$source}{$street}{$min}{$tod}{"N"};
+					$val{$source}{$street}{$min}{$tod}{"S"} = $val{$source}{$street}{$min}{$tod}{"N"} . "(mirrored)";
 				}
 				if ($val{$source}{$street}{$min}{$tod}{"E"} eq "") {
-					$val{$source}{$street}{$min}{$tod}{"E"} = $val{$source}{$street}{$min}{$tod}{"W"};
+					$val{$source}{$street}{$min}{$tod}{"E"} = $val{$source}{$street}{$min}{$tod}{"W"} . "(mirrored)";
 				}
 				if ($val{$source}{$street}{$min}{$tod}{"W"} eq "") {
-					$val{$source}{$street}{$min}{$tod}{"W"} = $val{$source}{$street}{$min}{$tod}{"E"};
+					$val{$source}{$street}{$min}{$tod}{"W"} = $val{$source}{$street}{$min}{$tod}{"E"} . "(mirrored)";
 				}
 
 				print "$source,$street,x,date,";

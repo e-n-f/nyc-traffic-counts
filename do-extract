@@ -1,0 +1,3 @@
+#!/bin/sh
+
+cat nyc-manual | ./process > counts-nyc-manual.csv

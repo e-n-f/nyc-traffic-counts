@@ -32,16 +32,16 @@ for $source (keys(%val)) {
 			for $tod (keys(%{$val{$source}{$street}{$min}})) {
 				# guess about uncounted crosswalks
 				if ($val{$source}{$street}{$min}{$tod}{"N"} eq "") {
-					$val{$source}{$street}{$min}{$tod}{"N"} = $val{$source}{$street}{$min}{$tod}{"S"} . "(mirrored)";
+					$val{$source}{$street}{$min}{$tod}{"N"} = $val{$source}{$street}{$min}{$tod}{"S"} . "(extrapolated)";
 				}
 				if ($val{$source}{$street}{$min}{$tod}{"S"} eq "") {
-					$val{$source}{$street}{$min}{$tod}{"S"} = $val{$source}{$street}{$min}{$tod}{"N"} . "(mirrored)";
+					$val{$source}{$street}{$min}{$tod}{"S"} = $val{$source}{$street}{$min}{$tod}{"N"} . "(extrapolated)";
 				}
 				if ($val{$source}{$street}{$min}{$tod}{"E"} eq "") {
-					$val{$source}{$street}{$min}{$tod}{"E"} = $val{$source}{$street}{$min}{$tod}{"W"} . "(mirrored)";
+					$val{$source}{$street}{$min}{$tod}{"E"} = $val{$source}{$street}{$min}{$tod}{"W"} . "(extrapolated)";
 				}
 				if ($val{$source}{$street}{$min}{$tod}{"W"} eq "") {
-					$val{$source}{$street}{$min}{$tod}{"W"} = $val{$source}{$street}{$min}{$tod}{"E"} . "(mirrored)";
+					$val{$source}{$street}{$min}{$tod}{"W"} = $val{$source}{$street}{$min}{$tod}{"E"} . "(extrapolated)";
 				}
 
 				print "$source,$street,x,date,";

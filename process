@@ -44,7 +44,7 @@ for $source (keys(%val)) {
 					$val{$source}{$street}{$min}{$tod}{"W"} = $val{$source}{$street}{$min}{$tod}{"E"} . "(extrapolated)";
 				}
 
-				print "$source,$street,x,date,";
+				print "nyc/$source,$street,x,date,";
 
 				if ($tod eq "AM") {
 					$time = 9 * 60;

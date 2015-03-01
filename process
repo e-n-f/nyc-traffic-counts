@@ -26,10 +26,10 @@ while (<>) {
 	}
 }
 
-for $source (keys(%val)) {
-	for $street (keys(%{$val{$source}})) {
-		for $min (keys(%{$val{$source}{$street}})) {
-			for $tod (keys(%{$val{$source}{$street}{$min}})) {
+for $source (sort(keys(%val))) {
+	for $street (sort(keys(%{$val{$source}}))) {
+		for $min (sort(keys(%{$val{$source}{$street}}))) {
+			for $tod (sort(keys(%{$val{$source}{$street}{$min}}))) {
 				# guess about uncounted crosswalks
 				if ($val{$source}{$street}{$min}{$tod}{"N"} eq "") {
 					$val{$source}{$street}{$min}{$tod}{"N"} = $val{$source}{$street}{$min}{$tod}{"S"} . "(extrapolated)";

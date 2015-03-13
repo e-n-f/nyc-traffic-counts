@@ -1447,17 +1447,53 @@ W: AM 7 + 12
 # W: AM 1 + 6
 
 
-http://www.nyc.gov/html/dcp/pdf/env_review/15_penn/17_feis.pdf
+http://www.nyc.gov/html/dcp/pdf/env_review/15_penn/appendixc_feis.pdf
 15 min
 
+- 8th Ave and W 31st St
+W: AM 160 MD 229 PM 184
+N: AM 100 MD 52 PM 110
+E: AM 346 MD 339 PM 471
+S: AM 91 MD 148 PM 197
+
+- 8th Ave and W 33rd St
+W: AM 171 MD 179 PM 181
+N: AM 261 MD 179 PM 147
+E: AM 383 MD 419 PM 729
+S: AM 73 MD 87 PM 113
+
+- 8th Ave and W 34th St
+W: AM 430 MD 469 PM 315
+N: AM 386 MD 286 PM 336
+E: AM 565 MD 665 PM 794
+S: AM 568 MD 1347 PM 701
+
+- 7th Ave and W 31st St
+W: AM 812 MD 541 PM 1094
+N: AM 607 MD 344 PM 361
+E: AM 718 MD 822 PM 681
+S: AM 273 MD 158 PM 266
+
 - 7th Ave and W 33rd St
-W: PM 1371
-N: PM 407
-E: PM 1105
-S: PM 636
+W: AM 1064 MD 818 PM 1371
+N: AM 391 MD 330 PM 407
+E: AM 680 MD 1091 PM 1105
+S: AM 486 MD 396 PM 636
 
 - 7th Ave and W 34th St
-W: PM 2352
-N: PM 1034
-E: PM 1173
-S: PM 1593
+W: AM 2066 MD 1203 PM 2352
+N: AM 1068 MD 956 PM 1034
+E: AM 784 MD 873 PM 1173
+S: AM 1738 MD 1119 PM 1593
+
+- 6th Ave and 31st St
+W: AM 425 MD 398 PM 624
+N: AM 231 MD 147 PM 216
+E: AM 227 MD 355 PM 378
+S: AM 243 MD 176 PM 228
+
+- 6th Ave and 32nd St
+W: AM 577 MD 621 PM 925
+N: AM 707 MD 530 PM 1093
+E: AM 273 MD 178 PM 187
+S: AM 533 MD 475 PM 589

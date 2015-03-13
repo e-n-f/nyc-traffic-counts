@@ -1416,35 +1416,35 @@ E: AM 4 + 8
 S: AM 5 + 1
 W: AM 7 + 12
 
-- Blvd and W 35th St
-N: AM 0 + 12
-E: AM 0 + 0
-S: AM 0 + 21
-W: AM 0 + 0
+# - Blvd and W 35th St
+# N: AM 0 + 12
+# E: AM 0 + 0
+# S: AM 0 + 21
+# W: AM 0 + 0
+#
+# - Blvd and W 34th St
+# N: AM 42 + 29
+# E: AM 0 + 0
+# S: AM 13 + 103
+# W: AM 0 + 0
+#
+# - Blvd and W 33rd St
+# N: AM 14 + 40
+# E: AM 0 + 0
+# S: AM 0 + 0
+# W: AM 0 + 0
 
-- Blvd and W 34th St
-N: AM 42 + 29
-E: AM 0 + 0
-S: AM 13 + 103
-W: AM 0 + 0
-
-- Blvd and W 33rd St
-N: AM 14 + 40
-E: AM 0 + 0
-S: AM 0 + 0
-W: AM 0 + 0
-
-- 11th Ave and W 32nd St
-N: AM 0 + 0
-E: AM 1 + 2
-S: AM 0 + 0
-W: AM 1 + 6
-
-- 11th Ave and W 31st St
-N: AM 0 + 0
-E: AM 1 + 2
-S: AM 0 + 0
-W: AM 1 + 6
+# - 11th Ave and W 32nd St
+# N: AM 0 + 0
+# E: AM 1 + 2
+# S: AM 0 + 0
+# W: AM 1 + 6
+#
+# - 11th Ave and W 31st St
+# N: AM 0 + 0
+# E: AM 1 + 2
+# S: AM 0 + 0
+# W: AM 1 + 6
 
 
 http://www.nyc.gov/html/dcp/pdf/env_review/15_penn/17_feis.pdf

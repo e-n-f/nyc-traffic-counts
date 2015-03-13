@@ -10,6 +10,9 @@ while (<>) {
 		$source =~ s/.*\///;
 		$source =~ s/\s*$//;
 		$min = 0;
+	} elsif (/http:\//) {
+		$source = $_;
+		$min = 0;
 	} elsif (/^(\d+) min/) {
 		$min = $1;
 	} elsif (/^- (.*)/) {

@@ -2,31 +2,37 @@
 15 min
 
 - East 125th Street and Lexington Ave
+40.80437, -73.93743
 N: AM 166 PM 200 MD 190
 S: AM 126 PM 214 MD 186
 E: AM 98 PM 134 MD 261
 
 - East 125th Street and 3rd Ave
+40.80371, -73.93585
 N: AM 41 PM 55 MD 41
 W: AM 52 PM 66 MD 38
 S: AM 64 PM 90 MD 75
 E: AM 29 PM 34 MD 49
 
 - East 125th Street and 2nd Ave
+40.80276, -73.93361
 N: AM 11 PM 12 MD 34
 W: AM 82 PM 85 MD 107
 
 - East 126th St and 3rd Ave
+40.80441, -73.93537
 N: AM 22 PM 12 MD 6
 S: AM 9 PM 8 MD 6
 E: AM 8 PM 9 MD 8
 
 - East 126th St and 2nd Ave
+40.80343, -73.93314
 N: AM 18 PM 13 MD 15
 W: AM 19 PM 26 MD 19
 S: AM 21 PM 17 MD 26
 
 - East 127th St and 3rd Ave
+40.80497, -73.93488
 S: AM 5 PM 2 MD 1
 E: AM 11 PM 2 MD 4
 
@@ -35,29 +41,34 @@ E: AM 11 PM 2 MD 4
 15 min
 
 - Reservoir Ave and 195th St
+40.86967, -73.89896
 N: AM 272 + 29, MD 24 + 8
 E: AM 51 + 5, MD 13 + 17
 S: AM 11 + 3, MD 0 + 8
 W: AM 19 + 14, MD 3 + 10
 
 - Reservoir Ave and Kingbridge Rd
+40.86788, -73.89948
 N: AM 57 + 14, MD 39 + 31
 E: AM 10 + 17, MD 7 + 5
 S: AM 29 + 44, MD 59 + 61
 W: AM 11 + 6, MD 17 + 14
 
 - Davison Ave and Kingsbridge Rd
+40.86765, -73.89860
 E: AM 9 + 7, MD 0 + 5
 S: AM 22 + 45, MD 59 + 91
 W: AM 6 + 8, MD 0 + 7
 
 - Jerome Ave and Kingsbridge Rd
+40.86744, -73.89739
 N: AM 32 + 14, MD 32 + 25
 E: AM 32 + 57, MD 31 + 37
 S: AM 39 + 22, MD 36 + 36
 W: AM 33 + 12, MD 12 + 51
 
 - Jerome Ave and 195th St
+40.86858, -73.89660
 N: AM 20 + 63, MD 11 + 7
 S: AM 14 + 20, MD 5 + 24
 W: AM 46 + 129, MD 63 + 85
@@ -68,30 +79,35 @@ XXX more times
 15 min
 
 - Mermaid Ave and W. 17th St
+40.57665, -73.98478
 N: AM 18 + 12
 E: AM 8 + 4
 S: AM 49 + 27
 W: AM 5 + 5
 
 - Surf Ave and W. 17th St
+40.57533, -73.98452
 N: AM 7 + 13
 E: AM 6 + 0
 S: AM 6 + 29
 W: AM 4 + 1
 
 - Surf Ave and W. 16th St
+40.57541, -73.98345
 N: AM 23 + 11
 E: AM 3 + 1
 S: AM 5 + 23
 W: AM 0 + 2
 
 - Stillwell Ave and Surf Ave
+40.57559, -73.98124
 N: 11 + 11
 E: 13 + 79
 S: 3 + 7
 W: 12 + 2
 
 - W. 8th St and Surf Ave
+40.57538, -73.97663
 N: 3 + 5
 E: 14 + 6
 W: 1 + 1
@@ -102,11 +118,13 @@ XXX more times
 60 min
 
 - Bushwick Ave and Flushing Ave
+40.70193, -73.93709
 S: AM 104 MD 114 PM 97 SMD 100
 E: AM 119 MD 66 PM 63 SMD 48
 W: AM 55 MD 30 PM 33 SMD 35
 
 - Evergreen Ave and Flushing Ave
+40.70268, -73.93398
 S: AM 89 MD 97 PM 85 SMD 21
 W: AM 25 MD 6 PM 22 SMD 89
 

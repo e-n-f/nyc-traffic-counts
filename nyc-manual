@@ -593,6 +593,7 @@ XXX more times
 60 min
 
 - Thomas Boyland Ave and Atlantic Ave
+40.67647, -73.91368
 
 N: PM 8 + 20
 E: PM 84 + 92
@@ -600,6 +601,7 @@ S: PM 34 + 33
 W: PM 50 + 145
 
 - Rockaway Ave and Atlantic Ave
+40.67635, -73.91094
 
 N: PM 14 + 17
 E: PM 37 + 41
@@ -607,6 +609,7 @@ S: PM 29 + 29
 W: PM 53 + 120
 
 - Rockaway Ave and Dean St
+40.67474, -73.91109
 
 N: PM 13 + 10
 E: PM 30 + 22
@@ -614,6 +617,7 @@ S: PM 6 + 9
 W: PM 36 + 51
 
 - Thomas Boyland Ave and Bergen St
+40.67416, -73.91392
 
 N: PM 17 + 9
 E: PM 84 + 30
@@ -628,6 +632,7 @@ S: PM 7 + 17
 W: PM 48 + 53
 
 - Rockaway Ave and Pitkin Ave
+40.66971, -73.91076
 
 N: PM 99 + 133
 E: PM 96 + 86
@@ -649,48 +654,56 @@ XXX more complicated intersections, more times
 60 min
 
 - Banker St and N 15th St
+40.72316, -73.95452
 N: AM 25 PM 20
 S: AM 3 PM 42
 E: AM 3 PM 8
 W: AM 3 PM 16
 
 - Driggs Ave and N 7th St
+40.71701, -73.95645
 N: AM 50 PM 51
 S: AM 104 PM 171
 E: AM 183 PM 169
 W: AM 82 PM 81
 
 - Bedford Ave and N 4th St
+40.71618, -73.95956
 N: AM 65 PM 90
 S: AM 27 PM 77
 E: AM 442 PM 609
 W: AM 384 PM 128
 
 - Bedford Ave and N 5th St
+40.71672, -73.95891
 N: AM 63 PM 58
 S: AM 53 PM 73
 E: AM 606 PM 717
 W: AM 128 PM 398
 
 - Bedford Ave and N 7th St
+40.71781, -73.95776
 N: AM 269 PM 447
 S: AM 185 PM 365
 E: AM 172 PM 392
 W: AM 149 PM 333
 
 - Bedford Ave and N 9th St
+40.71891, -73.95658
 N: AM 45 PM 50
 S: AM 53 PM 87
 E: AM 346 PM 391
 W: AM 263 PM 365
 
 - Bedford Ave and N 10th St
+40.71948, -73.95595
 N: AM 19 PM 32
 S: AM 32 PM 31
 E: AM 294 PM 403
 W: AM 281 PM 333
 
 - Nassau Ave and Banker St:
+40.722633, -73.954216
 N: AM 72 PM 90
 E: AM 266 PM 33
 W: AM 389 PM 30
@@ -700,30 +713,35 @@ W: AM 389 PM 30
 60 min
 
 - Utica Ave and Clarkson Ave
+40.65661, -73.93093
 N: AM 46 PM 61
 S: AM 87 PM 101
 E: AM 132 PM 177
 W: AM 85 PM 169
 
 - Utica Ave and Empire Blvd
+40.66358, -73.93162
 N: AM 381 PM 349
 S: AM 182 PM 47
 E: AM 49 PM 286
 W: AM 240 PM 492
 
 - Utica Ave and Linden Blvd
+40.65383, -73.93059
 N: AM 91 PM 99
 S: AM 85 PM 142
 E: AM 104 PM 230
 W: AM 114 PM 202
 
 - Utica Ave and Winthrop St
+40.65830, -73.93111
 N: AM 106 PM 95
 S: AM 95 PM 142
 E: AM 80 PM 123
 W: AM 66 PM 203
 
 - Utica Ave and E New York Ave
+40.66275, -73.93156
 N: AM 27 PM 40
 S: AM 12 PM 30
 E: AM 66 PM 190
@@ -767,12 +785,14 @@ S: AM 24
 W: AM 90
 
 - 43rd Ave and 51st St
+40.74436, -73.91375
 N: AM 121 MD 77 PM 94
 S: AM 99 MD 110 PM 78
 E: AM 203 MD 151 PM 181
 W: AM 31 MD 77 PM 29
 
 - Skillman Ave and 51st St
+40.74603, -73.91338
 N: AM 106 PM 79
 S: AM 111 PM 80
 E: AM 108 PM 27
@@ -783,6 +803,7 @@ W: AM 104 PM 55
 60 min
 
 - 9th Avenue and W 33rd Street
+40.75273, -73.99681
 N: AM 426
 S: AM 1012
 E: AM 340
@@ -797,6 +818,7 @@ E: PM 345
 W: PM 230
 
 - 9th Avenue and W 41st Street
+40.75784, -73.99312
 N: AM 166
 S: AM 189
 E: AM 711
@@ -811,7 +833,9 @@ S: PM 161
 E: PM 1090
 W: PM 542
 total: PM 2136
+
 - 9th Avenue and W 42nd Street
+40.75846, -73.99265
 N: AM 859
 S: AM 591
 E: AM 626
@@ -827,7 +851,9 @@ S: PM 871
 E: PM 1454
 W: PM 903
 total: PM 4585
+
 - 9th Avenue and W 47th Street
+40.76162, -73.99035
 N: AM 72
 S: AM 80
 E: AM 175
@@ -843,7 +869,9 @@ S: PM 123
 E: PM 306
 W: PM 189
 total: PM 2703
+
 - 9th Avenue and W 52nd Street
+40.76473, -73.98805
 N: AM 141
 S: AM 193
 E: AM 298
@@ -860,6 +888,7 @@ E: PM 475
 W: PM 632
 total: PM 1548
 - 8th Avenue and W 31st Street
+40.75030, -73.99483
 N: AM 310
 S: AM 319
 E: AM 1183
@@ -876,6 +905,7 @@ E: PM 1857
 W: PM 787
 total: PM 3683
 - 8th Avenue and W 33rd Street
+40.75151, -73.99393
 N: AM 764
 S: AM 345
 E: AM 1208
@@ -892,6 +922,7 @@ E: PM 2725
 W: PM 721
 total: PM 4538
 - 8th Avenue and W 34th Street
+40.75215, -73.99350
 N: AM 1082
 S: AM 1927
 E: AM 2140
@@ -908,6 +939,7 @@ E: PM 3318
 W: PM 1284
 total: PM 8513
 - 8th Avenue and W 40th Street
+40.75595, -73.99076
 N: AM 2969
 S: AM 1317
 E: AM 1598
@@ -924,6 +956,7 @@ E: PM 1755
 W: PM 3182
 total: PM 7789
 - 8th Avenue and W 42nd Street
+40.75724, -73.98979
 N: AM 1815
 S: AM 4217
 E: AM 4744
@@ -940,6 +973,7 @@ E: PM 3048
 W: PM 7920
 total: PM 18106
 - 8th Avenue and W 43rd Street
+40.75792, -73.98932
 N: AM 309
 S: AM 737
 E: AM 2446
@@ -956,6 +990,7 @@ E: PM 2472
 W: PM 4132
 total: PM 8124
 - 8th Avenue and W 47th Street
+40.76041, -73.98756
 N: AM 336
 S: AM 352
 E: AM 1075
@@ -972,6 +1007,7 @@ E: PM 2488
 W: PM 2349
 total: PM 5909
 - Broadway and W 42nd Street
+40.75579, -73.98642
 N: AM 77*
 S: AM 1472
 E: AM 1079
@@ -988,6 +1024,7 @@ E: PM 2741
 W: PM 1871
 total: PM 7700
 - 7th Avenue and W 31st Street
+40.74909, -73.99202
 N: AM 1809
 S: AM 1527
 E: AM 1807
@@ -1004,6 +1041,7 @@ E: PM 2302
 W: PM 2795
 total: PM 7848
 - 7th Avenue and W 42nd Street
+40.75602, -73.98698
 N: AM 1414
 S: AM 1743
 E: AM 1098
@@ -1020,6 +1058,7 @@ E: PM 2579
 W: PM 2790
 total: PM 11325
 - 7th Avenue and W 47th Street
+40.75920, -73.98464
 N: AM 793
 S: AM 901
 E: AM 1510
@@ -1040,6 +1079,7 @@ total: PM 8864
 60 min
 
 - Broadway and 145th Street
+40.82648, -73.95050
 N: AM 449
 S: AM 297
 E: AM 391
@@ -1051,6 +1091,7 @@ E: PM 613
 W: PM 896
 total: PM 2564
 - Broadway and 160th Street
+40.83594, -73.94362
 N: AM 97
 S: AM 174
 E: AM 182
@@ -1062,6 +1103,7 @@ E: PM 395
 W: PM 517
 total: PM 1142
 - Broadway and 166th Street
+40.83987, -73.94068
 N: AM 149
 S: AM 328
 E: AM 693
@@ -1069,6 +1111,7 @@ N: PM 170
 S: PM 287
 E: PM 626
 - Amsterdam Avenue and 147th Street
+40.82652, -73.94671
 N: AM 110
 S: AM 196
 E: AM 196
@@ -1080,6 +1123,7 @@ E: PM 210
 W: PM 510
 total: PM 956
 - Amsterdam Avenue and 155th Street*
+40.83156, -73.94301
 N: AM 310
 S: AM 66
 E: AM 417
@@ -1117,78 +1161,91 @@ total: PM 1086
 60 min
 
 - Tremont Ave and White Plains Rd
+40.84109, -73.86446
 N: AM 18 MD 8
 E: AM 21 MD 23
 S: AM 87 MD 75
 W: AM 9 MD 17
 
 - White Plains Rd and Archer St
+40.83789, -73.86356
 N: AM 220 MD 120
 E: AM 82 MD 39
 S: AM 134 MD 107
 W: AM 94 MD 47
 
 - Archer St and Leland Ave
+40.83776, -73.86459
 N: AM 304 MD 101
 E: AM 32 MD 30
 S: AM 160 MD 133
 W: AM 60 MD 28
 
 - Castle Hill Ave and Westchester Ave
+40.83427, -73.85171
 N: AM 307 MD 283
 E: AM 401 MD 293
 S: AM 370 MD 269
 W: AM 394 MD 302
 
 - Castle Hill Ave and Newbold Ave
+40.83341, -73.85143
 N: AM 84 MD 94
 E: AM 214 MD 253
 S: AM 86 MD 80
 W: AM 408 MD 343
 
 - Castle Hill Ave and Ellis Ave
+40.83265, -73.85123
 N: AM 16 MD 43
 E: AM 246 MD 196
 S: AM 33 MD 32
 W: AM 353 MD 101
 
 - Castle Hill Ave and Gleason Ave
+40.83192, -73.85104
 N: AM 47 MD 53
 E: AM 72 MD 30
 S: AM 270 MD 130
 W: AM 320 MD 229
 
 - Westchester Ave and Havermeyer Ave
+40.83511, -73.84872
 N: AM 107 MD 83
 E: AM 63 MD 61
 S: AM 81 MD 34
 W: AM 66 MD 23
 
 - Waterbury and Zerega
+40.83490, -73.84544
 N: AM 71 MD 61
 E: AM 18 MD 15
 S: AM 2 MD 9
 W: AM 66 MD 39
 
 - Zerega and Haviland
+40.83130, -73.84456
 N: AM 14 MD 13
 E: AM 26 MD 59
 S: AM 0 MD 3
 W: AM 22 MD 27
 
 - Castle Hill and Powell
+40.83119, -73.85086
 N: AM 56 MD 35
 E: AM 158 MD 99
 S: AM 264 MD 159
 W: AM 244 MD 153
 
 - Castle Hill and Story
+40.825453, -73.849534
 N: AM 30 MD 21
 E: AM 50 MD 35
 S: AM 7 MD 7
 W: AM 62 MD 59
 
 - Castle Hill and Lafayette
+40.823261, -73.849019
 N: AM 18 MD 14
 E: AM 60 MD 53
 S: AM 27 MD 49
@@ -1198,30 +1255,35 @@ W: AM 58 MD 52
 15 min
 
 - Bedford Ave and N 6th St
+40.71728, -73.95830
 N: AM 45 PM 44
 S: AM 46 PM 29
 E: AM 199 PM 232
 W: AM 77 PM 115
 
 - Bedford Ave and N 7th St
+40.71788, -73.95772
 N: AM 65 PM 87
 S: AM 93 PM 99
 E: AM 62 PM 128
 W: AM 45 PM 98
 
 - Manhattan Ave and India St
+40.73235, -73.95463
 N: AM 22 PM 39
 S: AM 60 PM 56
 E: AM 119 PM 146
 W: AM 142 PM 204
 
 - Manhattan Ave and Greenpoint Ave
+40.73024, -73.95425
 N: AM 40 PM 65
 S: AM 38 PM 115
 E: AM 87 PM 169
 W: AM 128 PM 229
 
 - Manhattan Ave and Nassau Ave
+40.72375, -73.95081
 N: AM 43 PM 51
 S: AM 68 PM 102
 E: AM 57 PM 127
@@ -1233,22 +1295,26 @@ W: AM 57 PM 94
 15 min
 
 - Throop Ave and Lorimer St
+40.70388, -73.94818
 N: AM 59 MD 9 PM 28
 W: AM 95 MD 15 PM 50
 
 - Harrison Ave and Gerry St
+40.70102, -73.94813
 N: AM 6 MD 9 PM 6
 S: AM 8 MD 7 PM 6
 E: AM 9 MD 2 PM 6
 W: AM 13 MD 3 PM 5
 
 - Union Ave and Flushing Ave
+40.69980, -73.95011
 N: AM 35 MD 23 PM 36
 S: AM 51 MD 25 PM 51
 E: AM 49 MD 26 PM 37
 W: AM 42 MD 11 PM 18
 
 - Broadway and Wallabout St
+40.70320, -73.94627
 N: AM 23 MD 18 PM 31
 W: AM 46 MD 33 PM 42
 
@@ -1257,12 +1323,14 @@ W: AM 46 MD 33 PM 42
 60 min
 
 - 38th Ave and 98th St
+40.750181, -73.868009
 W: AM 91
 E: AM 52
 S: AM 110
 N: AM 83
 
 - 38th Ave and 99th St
+40.750465, -73.867151
 W: AM 86
 E: AM 157
 S: AM 67
@@ -1272,46 +1340,54 @@ N: AM 104
 15 min
 
 - Gansevoort St and Washington St
+40.73940, -74.00806
 N: AM 2 MD 6 PM 4
 W: AM 4 MD 11 PM 11
 
 - W 18th St and 7th Ave
+40.74109, -73.99787
 N: AM 146 MD 128 PM 132
 S: AM 125 MD 122 PM 152
 E: AM 105 MD 162 PM 207
 W: AM 152 MD 209 PM 232
 
 - W 18th St and 8th Ave
+40.74227, -74.00068
 N: AM 72 MD 72 PM 67
 S: AM 79 MD 50 PM 51
 E: AM 150 MD 246 PM 300
 W: AM 229 MD 128 PM 176
 
 - W 18th St and 9th Ave
+40.74346, -74.00354
 N: AM 30 MD 32 PM 112
 S: AM 29 MD 49 PM 51
 E: AM 112 MD 149 PM 242
 W: AM 100 MD 97 PM 69
 
 - W 18th St and 10th Ave
+40.74466, -74.00637
 N: AM 4 MD 9 PM 10
 S: AM 7 MD 19 PM 14
 E: AM 22 MD 56 PM 47
 W: AM 8 MD 13 PM 17
 
 - W 23rd St and 8th Ave
+40.74531, -73.99845
 N: AM 221 MD 206 PM 354
 S: AM 225 MD 221 PM 344
 E: AM 155 MD 221 PM 308
 W: AM 156 MD 174 PM 228
 
 - W 23rd St and 9th Ave
+40.74650, -74.00128
 N: AM 148 MD 129 PM 189
 S: AM 133 MD 101 PM 179
 E: AM 114 MD 111 PM 108
 W: AM 106 MD 120 PM 128
 
 - W 23rd St and 10th Ave
+40.74772, -74.00420
 N: AM 56 MD 159 PM 181
 S: AM 52 MD 65 PM 73
 E: AM 66 MD 116 PM 78
@@ -1321,6 +1397,7 @@ W: AM 47 MD 66 PM 72
 15 min
 
 - E 59th St and 1st Ave
+40.75963, -73.96199
 N: AM 6 + 6 MD 20 + 10 PM 15 + 11
 E: AM 33 + 50 MD 53 + 76 PM 58 + 76
 S: AM 33 + 38 MD 38 + 28 PM 36 + 24
@@ -1331,62 +1408,73 @@ http://www.nyc.gov/html/brt/downloads/pdf/201201_brt_34th_project-analysis-repor
 15 min
 
 - 11th Ave and 34th St
+40.75581, -74.00208
 E: AM 20 PM 21
 N: AM 38 PM 19
 W: AM 33 PM 10
 S: AM 33 PM 25
 
 - 10th Ave and 34th St
+40.75461, -73.99916
 E: AM 81 PM 38
 N: AM 39 PM 36
 W: AM 45 PM 26
 S: AM 160 PM 90
 
 - 9th Ave and 34th St
+40.75337, -73.99630
 E: AM 283 PM 334
 N: AM 240 PM 250
 W: AM 153 PM 157
 S: AM 283 PM 332
 
 - 8th Ave and 34th St
+40.75227, -73.99347
 E: AM 837 PM 858
 N: AM 463 PM 786
 W: AM 528 PM 721
 S: AM 658 PM 791
 
 - 7th Ave and 34th St
+40.75100, -73.99058
 E: AM 1046 PM 1438
 N: AM 986 PM 1891
 W: AM 1931 PM 3382
 S: AM 1650 PM 2753
 
 - 6th Ave and Broadway and 34th St
+40.74981, -73.98787
 E: AM 479 PM 971
 N: AM 518 PM 1693
 W: AM 972 PM 2251
 S: AM 618 PM 1362
 
 - 5th Ave and 34th St
+40.74843, -73.98457
 N: AM 290 PM 301
 W: AM 464 PM 744
 
 - Madison Ave and 34th St
+40.74775, -73.98298
 E: AM 188 PM 260
 S: AM 373 PM 390
 
 - 3rd Ave and 34th St
+40.74573, -73.97822
 E: AM 244 PM 328
 N: AM 108 PM 172
 W: AM 260 PM 217
 S: AM 297 PM 248
 
 - 2nd Ave and 34th St
+40.74482, -73.97592
 E: AM 68 PM 84
 N: AM 112 PM 149
 W: AM 147 PM 160
 S: AM 164 PM 150
 
 - 1st Ave and 34th St
+40.74381, -73.97352
 E: AM 105 PM 109
 N: AM 87 PM 81
 W: AM 91 PM 106
@@ -1397,105 +1485,123 @@ http://web.mta.info/mta/planning/wry/feis_pdfs/appendices/Appendix%20E%20Transpo
 15 min
 
 - 11th Ave and W 34th St
+40.75581, -74.00208
 N: AM 4 + 34 MD 28 + 25
 E: AM 15 + 5 MD 14 + 13
 S: AM 31 + 2 MD 7 + 13
 W: AM 28 + 5 MD 3 + 12
 
 - 11th Ave and W 33rd St
+40.75513, -74.00255
 N: AM 0 + 7 MD 2 + 1
 E: AM 0 + 2 MD 9 + 6
 S: AM 0 + 4 MD 4 + 4
 W: AM 1 + 6 MD 4 + 4
 
 - 11th Ave and W 30th St
+40.75324, -74.00381
 N: AM 0 + 4 MD 4 + 1
 E: AM 5 + 7 MD 1 + 3
 S: AM 2 + 4 MD 2 + 4
 W: AM 1 + 8 MD 12 + 3
 
 - 10th Ave and W 34th St
+40.75461, -73.99916
 N: AM 9 + 30 MD 32 + 26
 E: AM 26 + 55 MD 335 + 67
 S: AM 145 + 15 MD 55 + 67
 W: AM 15 + 30 MD 14 + 31
 
 - 10th Ave and W 33rd St
+40.75394, -73.99963
 N: AM 13 + 46 MD 4 + 46
 E: AM 18 + 27 MD 66 + 23
 S: AM 22 + 11 MD 13 + 7
 W: AM 5 + 18 MD 10 + 13
 
 - 10th Ave and W 31st St
+40.75269, -74.00053
 N: AM 0 + 0 MD 2 + 0
 E: AM 7 + 6 MD 7 + 11
 S: AM 1 + 4 MD 20 + 0
 
 - 10th Ave and W 30th St
+40.75202, -74.00100
 N: AM 1 + 6 MD 3 + 1
 E: AM 8 + 8 MD 1 + 8
 S: AM 0 + 0 MD 2 + 4
 W: AM 4 + 14 MD 2 + 10
 
 - 9th Ave and W 34th St
+40.75340, -73.99630
 N: AM 74 + 148 MD 38 + 49
 E: AM 80 + 128 MD 158 + 110
 S: AM 246 + 43 MD 69 + 153
 W: AM 81 + 119 MD 41 + 48
 
 - 9th Ave and W 33rd St
+40.75274, -73.99680
 N: AM 22 + 121 MD 16 + 30
 E: AM 47 + 56 MD 17 + 20
 S: AM 22 + 353 MD 78 + 97
 W: AM 25 + 6 MD 40 + 96
 
 - 9th Ave and W 31st St
+40.75149, -73.99768
 N: AM 11 + 9 MD 8 + 3
 E: AM 61 + 46 MD 57 + 28
 S: AM 100 + 28 MD 41 + 45
 W: AM 45 + 20 MD 28 + 37
 
 - 8th Ave and W 34th St
+40.75222, -73.99345
 N: AM 121 + 261 MD 144 + 139 PM 198 + 135
 E: AM 306 + 253 MD 354 + 304 PM 310 + 476
 S: AM 317 + 245 MD 580 + 754 PM 248 + 446
 W: AM 283 + 143 MD 270 + 194 PM 168 + 144
 
 - 8th Ave and W 33rd St
+40.75153, -73.99394
 N: AM 91 + 167 MD 93 + 84
 E: AM 320 + 59 MD 188 + 227
 S: AM 20 + 52 MD 29 + 60
 W: AM 85 + 84 MD 109 + 68
 
 - 8th Ave and W 31st St
+40.75031, -73.99485
 N: AM 40 + 59
 E: AM 110 + 233
 S: AM 30 + 60
 W: AM 41 + 117
 
 - 11th Ave and W 36th St
+40.75709, -74.00109
 N: AM 5 + 19
 E: AM 4 + 6
 S: AM 4 + 13
 
 - 11th Ave and W 35th St
+40.75646, -74.00156
 N: AM 1 + 14
 E: AM 1 + 1
 S: AM 20 + 1
 
 - 10th Ave and W 35th St
+40.75527, -73.99869
 N: AM 2 + 17
 E: AM 21 + 20
 S: AM 13 + 3
 W: AM 18 + 8
 
 - 11th Ave and W 29th St
+40.75262, -74.00433
 N: AM 3 = 7
 E: AM 2 + 4
 S: AM 4 + 2
 W: AM 8 + 2
 
 - 10th Ave and W 29th St
+40.75145, -74.00145
 N: AM 2 + 5
 E: AM 4 + 8
 S: AM 5 + 1
@@ -1536,48 +1642,56 @@ http://www.nyc.gov/html/dcp/pdf/env_review/15_penn/appendixc_feis.pdf
 15 min
 
 - 8th Ave and W 31st St
+40.75031, -73.99487
 W: AM 160 MD 229 PM 184
 N: AM 100 MD 52 PM 110
 E: AM 346 MD 339 PM 471
 S: AM 91 MD 148 PM 197
 
 - 8th Ave and W 33rd St
+40.75152, -73.99397
 W: AM 171 MD 179 PM 181
 N: AM 261 MD 179 PM 147
 E: AM 383 MD 419 PM 729
 S: AM 73 MD 87 PM 113
 
 - 8th Ave and W 34th St
+40.75217, -73.99347
 W: AM 430 MD 469 PM 315
 N: AM 386 MD 286 PM 336
 E: AM 565 MD 665 PM 794
 S: AM 568 MD 1347 PM 701
 
 - 7th Ave and W 31st St
+40.74911, -73.99201
 W: AM 812 MD 541 PM 1094
 N: AM 607 MD 344 PM 361
 E: AM 718 MD 822 PM 681
 S: AM 273 MD 158 PM 266
 
 - 7th Ave and W 33rd St
+40.75033, -73.99111
 W: AM 1064 MD 818 PM 1371
 N: AM 391 MD 330 PM 407
 E: AM 680 MD 1091 PM 1105
 S: AM 486 MD 396 PM 636
 
 - 7th Ave and W 34th St
+40.75096, -73.99062
 W: AM 2066 MD 1203 PM 2352
 N: AM 1068 MD 956 PM 1034
 E: AM 784 MD 873 PM 1173
 S: AM 1738 MD 1119 PM 1593
 
 - 6th Ave and 31st St
+40.74789, -73.98918
 W: AM 425 MD 398 PM 624
 N: AM 231 MD 147 PM 216
 E: AM 227 MD 355 PM 378
 S: AM 243 MD 176 PM 228
 
 - 6th Ave and 32nd St
+40.74849, -73.98873
 W: AM 577 MD 621 PM 925
 N: AM 707 MD 530 PM 1093
 E: AM 273 MD 178 PM 187
@@ -1588,31 +1702,37 @@ http://www.nyc.gov/html/oec/downloads/pdf/dme_projects/07DME025M/FEIS/07DME025M_
 15 min
 
 - E 125th St and 3rd Ave
+40.80370, -73.93579
 N: AM 41 PM 55
 W: AM 52 PM 66
 S: AM 64 PM 75
 E: AM 29 PM 34
 
 - E 125th St and Lexington Ave
+40.80435, -73.93738
 N: AM 166 PM 200
 S: AM 126 PM 186
 E: AM 98 PM 134
 
 - E 125th St and 2nd Ave
+40.80279, -73.93356
 N: AM 11 PM 12
 W: AM 82 PM 85
 
 - E 126th St and 3rd Ave
+40.80435, -73.93536
 N: AM 22 PM 12
 S: AM 9 PM 8
 E: AM 8 PM 9
 
 - E 126th St and 2nd Ave
+40.80344, -73.93309
 N: AM 18 PM 13
 W: AM 19 PM 26
 S: AM 21 PM 17
 
 - E 127th St and 3rd Ave
+40.80495, -73.93489
 S: AM 5 PM 2
 E: AM 11 PM 2
 
@@ -1620,17 +1740,21 @@ http://www.nyc.gov/html/dcp/pdf/env_review/770_11thavenue/14_feis.pdf
 15 min
 
 - 11th Ave and W 53rd St
+40.76776, -73.99330
 N: AM 34 PM 55
 E: AM 7 PM 26
 
 - 11th Ave and W 54th St
+40.76841, -73.99287
 S: AM 46 PM 35
 E: AM 49 PM 34
 
 - 10th Ave and W 54th St
+40.76717, -73.98995
 S: AM 37 PM 39
 W: AM 115 PM 89
 
 - 10th Ave and W 53rd St
+40.76654, -73.99047
 N: AM 41 PM 19
 W: AM 110 PM 86

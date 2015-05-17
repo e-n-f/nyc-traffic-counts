@@ -2126,3 +2126,23 @@ N: AM 1015 + 165 MD 876 + 575 PM 433 + 1015
 E: AM 0 + 0 MD 0 + 0 PM 0 + 0
 S: AM 571 + 69 MD 587 + 741 PM 604 + 671
 W: AM 504 + 90 MD 828 + 936 PM 693 + 1001
+
+
+
+/Users/enf/traffic/nyc-traffic-counts/nyc/appendixc_deis.pdf
+15 min
+
+- Broadway and 32nd St
+40.74829, -73.98821
+N: AM 194 + 513 MD 258 + 273 PM 772 + 321
+E: AM 246 + 26 MD 86 + 92 PM 99 + 88
+S: AM 143 + 390 MD 208 + 267 PM 363 + 226
+W: AM 337 + 129 MD 346 + 275 PM 248 + 677
+
+- Broadway and 31st St
+40.74755, -73.98834
+N: AM 109 + 122 MD 82 + 66 PM 142 + 74
+E: AM 163 + 65 MD 159 + 196 PM 109 + 269
+S: AM 54 + 190 MD 70 + 106 PM 143 + 85
+W: AM 351 + 74 MD 182 + 216 PM 209 + 415
+

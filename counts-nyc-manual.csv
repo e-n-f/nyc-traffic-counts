@@ -611,6 +611,27 @@ nyc/http://www.nyc.gov/html/dcp/pdf/env_review/770_11thavenue/14_feis.pdf,11th A
 nyc/http://www.nyc.gov/html/dcp/pdf/env_review/770_11thavenue/14_feis.pdf,11th Ave and W 53rd St,x,date,17:00-17:15,,,,,,,,,,,,,55,26,55(extrapolated),26(extrapolated),,,,,40.76776,-73.99330
 nyc/http://www.nyc.gov/html/dcp/pdf/env_review/770_11thavenue/14_feis.pdf,11th Ave and W 54th St,x,date,09:00-09:15,,,,,,,,,,,,,46(extrapolated),49,46,49(extrapolated),,,,,40.76841,-73.99287
 nyc/http://www.nyc.gov/html/dcp/pdf/env_review/770_11thavenue/14_feis.pdf,11th Ave and W 54th St,x,date,17:00-17:15,,,,,,,,,,,,,35(extrapolated),34,35,34(extrapolated),,,,,40.76841,-73.99287
+nyc/http://www.nyc.gov/html/dot/downloads/pdf/uwsfindings0510.pdf,11th Ave and 65th St,x,date,17:00-18:00,,,,,,,,,,,,,208,103,67,24,,,,,40.77535,-73.98774
+nyc/http://www.nyc.gov/html/dot/downloads/pdf/uwsfindings0510.pdf,57th St and 10th Ave,x,date,17:00-18:00,,,,,,,,,,,,,556,615,688,662,,,,,40.76910,-73.98859
+nyc/http://www.nyc.gov/html/dot/downloads/pdf/uwsfindings0510.pdf,57th St and 9th Ave,x,date,17:00-18:00,,,,,,,,,,,,,730,867,951,748,,,,,40.76791,-73.98576
+nyc/http://www.nyc.gov/html/dot/downloads/pdf/uwsfindings0510.pdf,58th St and 8th Ave,x,date,17:00-18:00,,,,,,,,,,,,,553,606,916,1304,,,,,40.76742,-73.98241
+nyc/http://www.nyc.gov/html/dot/downloads/pdf/uwsfindings0510.pdf,58th St and 9th Ave,x,date,17:00-18:00,,,,,,,,,,,,,1402,867,416,786,,,,,40.76859,-73.98529
+nyc/http://www.nyc.gov/html/dot/downloads/pdf/uwsfindings0510.pdf,60th St and 9th Ave,x,date,17:00-18:00,,,,,,,,,,,,,689,583,960,648,,,,,40.76985,-73.98437
+nyc/http://www.nyc.gov/html/dot/downloads/pdf/uwsfindings0510.pdf,65th St and Central Park W,x,date,17:00-18:00,,,,,,,,,,,,,92,454,168,481,,,,,40.77180,-73.97922
+nyc/http://www.nyc.gov/html/dot/downloads/pdf/uwsfindings0510.pdf,66th St and 9th Ave,x,date,17:00-18:00,,,,,,,,,,,,,1356,1077,623,374,,,,,40.77360,-73.98160
+nyc/http://www.nyc.gov/html/dot/downloads/pdf/uwsfindings0510.pdf,66th St and Broadway,x,date,17:00-18:00,,,,,,,,,,,,,898,1463,1277,1825,,,,,40.77389,-73.98229
+nyc/http://www.nyc.gov/html/dot/downloads/pdf/uwsfindings0510.pdf,66th St and Central Park W,x,date,17:00-18:00,,,,,,,,,,,,,75,524,135,399,,,,,40.77241,-73.97872
+nyc/http://www.nyc.gov/html/dot/downloads/pdf/uwsfindings0510.pdf,72nd St and Amsterdam Ave,x,date,17:00-18:00,,,,,,,,,,,,,1518,546,1542,766,,,,,40.77860,-73.98168
+nyc/http://www.nyc.gov/html/dot/downloads/pdf/uwsfindings0510.pdf,72nd St and Broadway,x,date,17:00-18:00,,,,,,,,,,,,,1372,377,1129,1471,,,,,40.77878,-73.98214
+nyc/http://www.nyc.gov/html/dot/downloads/pdf/uwsfindings0510.pdf,72nd St and Central Park W,x,date,17:00-18:00,,,,,,,,,,,,,521,342,280,375,,,,,40.77623,-73.97596
+nyc/http://www.nyc.gov/html/dot/downloads/pdf/uwsfindings0510.pdf,72nd St and Riverside Dr,x,date,17:00-18:00,,,,,,,,,,,,,125,0,125(extrapolated),137,,,,,40.78207,-73.97175
+nyc/http://www.nyc.gov/html/dot/downloads/pdf/uwsfindings0510.pdf,79th St and Amsterdam Ave,x,date,17:00-18:00,,,,,,,,,,,,,405,536,454,527,,,,,40.78317,-73.97836
+nyc/http://www.nyc.gov/html/dot/downloads/pdf/uwsfindings0510.pdf,79th St and Broadway,x,date,17:00-18:00,,,,,,,,,,,,,660,957,606,831,,,,,40.78387,-73.98003
+nyc/http://www.nyc.gov/html/dot/downloads/pdf/uwsfindings0510.pdf,79th St and Riverside Dr,x,date,17:00-18:00,,,,,,,,,,,,,58,33,36,72,,,,,40.78496,-73.98271
+nyc/http://www.nyc.gov/html/dot/downloads/pdf/uwsfindings0510.pdf,81st St and Central Park W,x,date,17:00-18:00,,,,,,,,,,,,,218,183,107,190,,,,,40.78207,-73.97175
+nyc/http://www.nyc.gov/html/dot/downloads/pdf/uwsfindings0510.pdf,86th St and Broadway,x,date,17:00-18:00,,,,,,,,,,,,,901,782,893,1168,,,,,40.78832,-73.97653
+nyc/http://www.nyc.gov/html/dot/downloads/pdf/uwsfindings0510.pdf,86th St and Central Park W,x,date,17:00-18:00,,,,,,,,,,,,,187,145,96,307,,,,,40.78530,-73.96939
+nyc/http://www.nyc.gov/html/dot/downloads/pdf/uwsfindings0510.pdf,86th St and Riverside Dr,x,date,17:00-18:00,,,,,,,,,,,,,40,73,36,73(extrapolated),,,,,40.78993,-73.98040
 nyc/http://www.nyc.gov/html/oec/downloads/pdf/dme_projects/07DME025M/FEIS/07DME025M_%20FEIS_17_Transit_and_Pedestrians.pdf,E 125th St and 2nd Ave,x,date,09:00-09:15,,,,,,,,,,,,,11,82(extrapolated),11(extrapolated),82,,,,,40.80279,-73.93356
 nyc/http://www.nyc.gov/html/oec/downloads/pdf/dme_projects/07DME025M/FEIS/07DME025M_%20FEIS_17_Transit_and_Pedestrians.pdf,E 125th St and 2nd Ave,x,date,17:00-17:15,,,,,,,,,,,,,12,85(extrapolated),12(extrapolated),85,,,,,40.80279,-73.93356
 nyc/http://www.nyc.gov/html/oec/downloads/pdf/dme_projects/07DME025M/FEIS/07DME025M_%20FEIS_17_Transit_and_Pedestrians.pdf,E 125th St and 3rd Ave,x,date,09:00-09:15,,,,,,,,,,,,,41,29,64,52,,,,,40.80370,-73.93579

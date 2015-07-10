@@ -2293,3 +2293,48 @@ N: PM 290 + 263
 E: PM 375 + 231
 S: PM 429 + 487
 W: PM 844 + 460
+
+/Users/enf/traffic/nyc-traffic-counts/nyc-other/13_feis.pdf
+15 min
+
+- Varick St and Charlton St
+40.7271498,-74.005572
+N: AM 61 + 45 MD 72 + 86 PM 24 + 103
+E: AM 112 + 71 MD 154 + 187 PM 93 + 193
+S: AM 81 + 32 MD 82 + 94 PM 29 + 80
+W: AM 163 + 58 MD 193 + 143 PM 80 + 118
+
+- Varick St and Vandam St
+40.7264266,-74.0057042
+N: AM 60 + 14 MD 45 + 21 PM 17 + 79
+E: AM 80 + 101 MD 114 + 105 PM 147 + 72
+S: AM 151 + 28 MD 150 + 43 PM PM 64 + 49
+W: AM 153 + 101 MD 245 + 124 PM 134 + 119
+
+- Varick St and Spring St
+40.7256685,-74.0058487
+N: AM 240 + 47 MD 111 + 148 PM 78 + 310
+E: AM 77 + 61 MD 151 + 115 PM 93 + 81
+S: AM 74 + 10 MD 43 + 48 PM 22 + 49
+W: AM 62 + 31 MD 164 + 152 PM 60 + 94
+
+- Varick St and Dominick St
+40.7250211,-74.0059182
+N: AM 27 + 9 MD 17 + 23 PM 14 + 19
+E: AM 55 + 44 MD 110 + 88 PM 77 + 69
+S: AM 34 + 8 MD 22 + 22 PM 12 + 22
+W: AM 55 + 35 MD 124 + 129 PM 46 + 78
+
+- Varick St and Watts St
+40.7237766,-74.006114
+N: AM 7 + 5 MD 14 + 19 PM 2 + 8
+E: AM 76 + 77 MD 137 + 130 PM 108 + 21
+S: AM 34 + 28 MD 64 + 64 PM 13 + 45
+W: AM 39 + 29 MD 89 + 107 PM 39 + 73
+
+- Hudson St and Vandam St
+40.7265867,-74.0074841
+N: AM 38 + 25 MD 39 + 30 PM 19 + 38
+E: AM 56 + 26 MD 74 + 77 PM 46 + 52
+S: AM 132 + 9 MD 76 + 60 PM 22 + 64
+W: AM 125 + 58 MD 133 + 104 PM 58 + 82

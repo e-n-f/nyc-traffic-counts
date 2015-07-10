@@ -161,6 +161,24 @@ nyc/12_feis.pdf,Madison Ave @ East 47th St,x,date,17:00-18:00,,,,,,,,,,,,,1047(e
 nyc/12_feis.pdf,Park Ave @ East 49th St,x,date,09:00-10:00,,,,,,,,,,,,,575(extrapolated),2045,575,2045(extrapolated),,,,,40.75654,-73.97444
 nyc/12_feis.pdf,Park Ave @ East 49th St,x,date,12:00-13:00,,,,,,,,,,,,,459(extrapolated),1093,459,1093(extrapolated),,,,,40.75654,-73.97444
 nyc/12_feis.pdf,Park Ave @ East 49th St,x,date,17:00-18:00,,,,,,,,,,,,,438(extrapolated),1921,438,1921(extrapolated),,,,,40.75654,-73.97444
+nyc/13_feis.pdf,Hudson St and Vandam St,x,date,09:00-09:15,,,,,,,,,,,,,63,82,141,183,,,,,40.7265867,-74.0074841
+nyc/13_feis.pdf,Hudson St and Vandam St,x,date,12:00-12:15,,,,,,,,,,,,,69,151,136,237,,,,,40.7265867,-74.0074841
+nyc/13_feis.pdf,Hudson St and Vandam St,x,date,17:00-17:15,,,,,,,,,,,,,57,98,86,140,,,,,40.7265867,-74.0074841
+nyc/13_feis.pdf,Varick St and Charlton St,x,date,09:00-09:15,,,,,,,,,,,,,106,183,113,221,,,,,40.7271498,-74.005572
+nyc/13_feis.pdf,Varick St and Charlton St,x,date,12:00-12:15,,,,,,,,,,,,,158,341,176,336,,,,,40.7271498,-74.005572
+nyc/13_feis.pdf,Varick St and Charlton St,x,date,17:00-17:15,,,,,,,,,,,,,127,286,109,198,,,,,40.7271498,-74.005572
+nyc/13_feis.pdf,Varick St and Dominick St,x,date,09:00-09:15,,,,,,,,,,,,,36,99,42,90,,,,,40.7250211,-74.0059182
+nyc/13_feis.pdf,Varick St and Dominick St,x,date,12:00-12:15,,,,,,,,,,,,,40,198,44,253,,,,,40.7250211,-74.0059182
+nyc/13_feis.pdf,Varick St and Dominick St,x,date,17:00-17:15,,,,,,,,,,,,,33,146,34,124,,,,,40.7250211,-74.0059182
+nyc/13_feis.pdf,Varick St and Spring St,x,date,09:00-09:15,,,,,,,,,,,,,287,138,84,93,,,,,40.7256685,-74.0058487
+nyc/13_feis.pdf,Varick St and Spring St,x,date,12:00-12:15,,,,,,,,,,,,,259,266,91,316,,,,,40.7256685,-74.0058487
+nyc/13_feis.pdf,Varick St and Spring St,x,date,17:00-17:15,,,,,,,,,,,,,388,174,71,154,,,,,40.7256685,-74.0058487
+nyc/13_feis.pdf,Varick St and Vandam St,x,date,09:00-09:15,,,,,,,,,,,,,74,181,179,254,,,,,40.7264266,-74.0057042
+nyc/13_feis.pdf,Varick St and Vandam St,x,date,12:00-12:15,,,,,,,,,,,,,66,219,193,369,,,,,40.7264266,-74.0057042
+nyc/13_feis.pdf,Varick St and Vandam St,x,date,17:00-17:15,,,,,,,,,,,,,96,219,113,253,,,,,40.7264266,-74.0057042
+nyc/13_feis.pdf,Varick St and Watts St,x,date,09:00-09:15,,,,,,,,,,,,,12,153,62,68,,,,,40.7237766,-74.006114
+nyc/13_feis.pdf,Varick St and Watts St,x,date,12:00-12:15,,,,,,,,,,,,,33,267,128,196,,,,,40.7237766,-74.006114
+nyc/13_feis.pdf,Varick St and Watts St,x,date,17:00-17:15,,,,,,,,,,,,,10,129,58,112,,,,,40.7237766,-74.006114
 nyc/13dcp047x_eas.pdf,W. 225th St and Broadway,x,date,12:00-12:15,,,,,,,,,,,,,216(extrapolated),67,216,67(extrapolated),,,,,40.87428,-73.91028
 nyc/13dcp047x_eas.pdf,W. 225th St and Broadway,x,date,17:00-17:15,,,,,,,,,,,,,203(extrapolated),90,203,90(extrapolated),,,,,40.87428,-73.91028
 nyc/13dcp047x_eas.pdf,W. 225th St and Parking Entrance,x,date,12:00-12:15,,,,,,,,,,,,,348(extrapolated),51,348,31,,,,,40.87428,-73.91028

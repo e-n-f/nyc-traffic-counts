@@ -191,6 +191,39 @@ nyc/14_feis.pdf,11th Ave and W 53rd St,x,date,09:00-09:15,,,,,,,,,,,,,34,7,34(ex
 nyc/14_feis.pdf,11th Ave and W 53rd St,x,date,17:00-17:15,,,,,,,,,,,,,55,26,55(extrapolated),26(extrapolated),,,,,40.76775,-73.99326
 nyc/14_feis.pdf,11th Ave and W 54th St,x,date,09:00-09:15,,,,,,,,,,,,,46,49,46(extrapolated),49(extrapolated),,,,,40.76839,-73.99283
 nyc/14_feis.pdf,11th Ave and W 54th St,x,date,17:00-17:15,,,,,,,,,,,,,35,34,35(extrapolated),34(extrapolated),,,,,40.76839,-73.99283
+nyc/14_feis.pdf,3rd St and LaGuardia St,x,date,09:00-09:15,,,,,,,,,,,,,72,43,158,28,,,,,40.7293164,-73.9979091
+nyc/14_feis.pdf,3rd St and LaGuardia St,x,date,12:00-12:15,,,,,,,,,,,,,119,118,132,98,,,,,40.7293164,-73.9979091
+nyc/14_feis.pdf,3rd St and LaGuardia St,x,date,17:00-17:15,,,,,,,,,,,,,127,97,141,106,,,,,40.7293164,-73.9979091
+nyc/14_feis.pdf,Bleecker St and Broadway,x,date,09:00-09:15,,,,,,,,,,,,,98,203,92,148,,,,,40.7265223,-73.9958611
+nyc/14_feis.pdf,Bleecker St and Broadway,x,date,12:00-12:15,,,,,,,,,,,,,267,477,179,296,,,,,40.7265223,-73.9958611
+nyc/14_feis.pdf,Bleecker St and Broadway,x,date,17:00-17:15,,,,,,,,,,,,,187,551,223,325,,,,,40.7265223,-73.9958611
+nyc/14_feis.pdf,Bleecker St and LaGuardia St,x,date,09:00-09:15,,,,,,,,,,,,,51,33,64,32,,,,,40.7280423,-73.9989641
+nyc/14_feis.pdf,Bleecker St and LaGuardia St,x,date,12:00-12:15,,,,,,,,,,,,,129,99,129,89,,,,,40.7280423,-73.9989641
+nyc/14_feis.pdf,Bleecker St and LaGuardia St,x,date,17:00-17:15,,,,,,,,,,,,,209,126,199,158,,,,,40.7280423,-73.9989641
+nyc/14_feis.pdf,Bleecker St and Mercer St,x,date,09:00-09:15,,,,,,,,,,,,,81,55,87,56,,,,,40.7269146,-73.9966938
+nyc/14_feis.pdf,Bleecker St and Mercer St,x,date,12:00-12:15,,,,,,,,,,,,,148,259,156,125,,,,,40.7269146,-73.9966938
+nyc/14_feis.pdf,Bleecker St and Mercer St,x,date,17:00-17:15,,,,,,,,,,,,,147,153,187,124,,,,,40.7269146,-73.9966938
+nyc/14_feis.pdf,Great Jones St and Mercer St,x,date,09:00-09:15,,,,,,,,,,,,,36,44,61,52,,,,,40.7281997,-73.99564
+nyc/14_feis.pdf,Great Jones St and Mercer St,x,date,12:00-12:15,,,,,,,,,,,,,69,129,82,162,,,,,40.7281997,-73.99564
+nyc/14_feis.pdf,Great Jones St and Mercer St,x,date,17:00-17:15,,,,,,,,,,,,,74,129,88,138,,,,,40.7281997,-73.99564
+nyc/14_feis.pdf,Houston St and Broadway,x,date,09:00-09:15,,,,,,,,,,,,,154,234,132,95,,,,,40.7254272,-73.9967888
+nyc/14_feis.pdf,Houston St and Broadway,x,date,12:00-12:15,,,,,,,,,,,,,249,511,385,298,,,,,40.7254272,-73.9967888
+nyc/14_feis.pdf,Houston St and Broadway,x,date,17:00-17:15,,,,,,,,,,,,,357,717,595,369,,,,,40.7254272,-73.9967888
+nyc/14_feis.pdf,Houston St and LaGuardia St,x,date,09:00-09:15,,,,,,,,,,,,,55,34,100,35,,,,,40.7269416,-73.9999393
+nyc/14_feis.pdf,Houston St and LaGuardia St,x,date,12:00-12:15,,,,,,,,,,,,,141,86,161,99,,,,,40.7269416,-73.9999393
+nyc/14_feis.pdf,Houston St and LaGuardia St,x,date,17:00-17:15,,,,,,,,,,,,,179,113,242,107,,,,,40.7269416,-73.9999393
+nyc/14_feis.pdf,Houston St and Mercer St,x,date,09:00-09:15,,,,,,,,,,,,,52,22,198,35,,,,,40.7258113,-73.9976175
+nyc/14_feis.pdf,Houston St and Mercer St,x,date,12:00-12:15,,,,,,,,,,,,,181,75,238,81,,,,,40.7258113,-73.9976175
+nyc/14_feis.pdf,Houston St and Mercer St,x,date,17:00-17:15,,,,,,,,,,,,,191,91,300,103,,,,,40.7258113,-73.9976175
+nyc/14_feis.pdf,University Pl and 8th St,x,date,09:00-09:15,,,,,,,,,,,,,90,105,45,100,,,,,40.7315863,-73.9947942
+nyc/14_feis.pdf,University Pl and 8th St,x,date,12:00-12:15,,,,,,,,,,,,,144,305,91,244,,,,,40.7315863,-73.9947942
+nyc/14_feis.pdf,University Pl and 8th St,x,date,17:00-17:15,,,,,,,,,,,,,182,210,76,208,,,,,40.7315863,-73.9947942
+nyc/14_feis.pdf,University Pl and Waverly Pl,x,date,09:00-09:15,,,,,,,,,,,,,63,88,147,44,,,,,40.7307081,-73.995588
+nyc/14_feis.pdf,University Pl and Waverly Pl,x,date,12:00-12:15,,,,,,,,,,,,,167,253,804,175,,,,,40.7307081,-73.995588
+nyc/14_feis.pdf,University Pl and Waverly Pl,x,date,17:00-17:15,,,,,,,,,,,,,128,194,424,140,,,,,40.7307081,-73.995588
+nyc/14_feis.pdf,Waverly Pl and Broadway,x,date,09:00-09:15,,,,,,,,,,,,,149,289,68,346,,,,,40.7295814,-73.9932792
+nyc/14_feis.pdf,Waverly Pl and Broadway,x,date,12:00-12:15,,,,,,,,,,,,,299,702,177,706,,,,,40.7295814,-73.9932792
+nyc/14_feis.pdf,Waverly Pl and Broadway,x,date,17:00-17:15,,,,,,,,,,,,,228,838,130,811,,,,,40.7295814,-73.9932792
 nyc/16_feis.pdf,31st St and 39th Ave,x,date,09:00-09:15,,,,,,,,,,,,,31,9,6,11,
 nyc/16_feis.pdf,31st St and 39th Ave,x,date,12:00-12:15,,,,,,,,,,,,,21,11,4,11,
 nyc/16_feis.pdf,31st St and 39th Ave,x,date,17:00-17:15,,,,,,,,,,,,,7,11,5,16,

@@ -700,6 +700,36 @@ nyc/http://www.nyc.gov/html/oec/downloads/pdf/dme_projects/07DME025M/FEIS/07DME0
 nyc/http://www.nyc.gov/html/oec/downloads/pdf/dme_projects/07DME025M/FEIS/07DME025M_%20FEIS_17_Transit_and_Pedestrians.pdf,E 127th St and 3rd Ave,x,date,17:00-17:15,,,,,,,,,,,,,2(extrapolated),2,2,2(extrapolated),,,,,40.80495,-73.93489
 nyc/qntransfiguration.pdf,38th Ave and 98th St,x,date,09:00-10:00,,,,,,,,,,,,,83,52,110,91,,,,,40.750181,-73.868009
 nyc/qntransfiguration.pdf,38th Ave and 99th St,x,date,09:00-10:00,,,,,,,,,,,,,104,157,67,86,,,,,40.750465,-73.867151
+nyc/seniors_upper-west-side_report.pdf,81st St and Central Park West,x,date,09:00-10:00,,,,,,,,,,,,,136,81,49,270,,,,,40.78205,-73.97179
+nyc/seniors_upper-west-side_report.pdf,81st St and Central Park West,x,date,12:00-13:00,,,,,,,,,,,,,148,133,99,230,,,,,40.78205,-73.97179
+nyc/seniors_upper-west-side_report.pdf,81st St and Central Park West,x,date,17:00-18:00,,,,,,,,,,,,,144,97,75,177,,,,,40.78205,-73.97179
+nyc/seniors_upper-west-side_report.pdf,Amsterdam Ave and W 72nd St,x,date,09:00-10:00,,,,,,,,,,,,,412,205,305,267,,,,,40.77857,-73.98166
+nyc/seniors_upper-west-side_report.pdf,Amsterdam Ave and W 72nd St,x,date,12:00-13:00,,,,,,,,,,,,,569,422,513,407,,,,,40.77857,-73.98166
+nyc/seniors_upper-west-side_report.pdf,Amsterdam Ave and W 72nd St,x,date,17:00-18:00,,,,,,,,,,,,,736,366,646,431,,,,,40.77857,-73.98166
+nyc/seniors_upper-west-side_report.pdf,Columbus Ave and W 62nd St,x,date,09:00-10:00,,,,,,,,,,,,,118,86,130,150,,,,,40.77105,-73.98342
+nyc/seniors_upper-west-side_report.pdf,Columbus Ave and W 62nd St,x,date,12:00-13:00,,,,,,,,,,,,,223,186,96,192,,,,,40.77105,-73.98342
+nyc/seniors_upper-west-side_report.pdf,Columbus Ave and W 62nd St,x,date,17:00-18:00,,,,,,,,,,,,,197,224,205,238,,,,,40.77105,-73.98342
+nyc/seniors_upper-west-side_report.pdf,Columbus Ave and W 72nd St,x,date,09:00-10:00,,,,,,,,,,,,,268,287,390,308,,,,,40.77740,-73.97883
+nyc/seniors_upper-west-side_report.pdf,Columbus Ave and W 72nd St,x,date,12:00-13:00,,,,,,,,,,,,,396,470,388,643,,,,,40.77740,-73.97883
+nyc/seniors_upper-west-side_report.pdf,Columbus Ave and W 72nd St,x,date,17:00-18:00,,,,,,,,,,,,,341,452,423,532,,,,,40.77740,-73.97883
+nyc/seniors_upper-west-side_report.pdf,Columbus Ave and W 81st St,x,date,09:00-10:00,,,,,,,,,,,,,21,287,167,209,,,,,40.78324,-73.97456
+nyc/seniors_upper-west-side_report.pdf,Columbus Ave and W 81st St,x,date,12:00-13:00,,,,,,,,,,,,,163,274,183,242,,,,,40.78324,-73.97456
+nyc/seniors_upper-west-side_report.pdf,Columbus Ave and W 81st St,x,date,17:00-18:00,,,,,,,,,,,,,226,276,213,268,,,,,40.78324,-73.97456
+nyc/seniors_upper-west-side_report.pdf,W 66th St and Broadway,x,date,09:00-10:00,,,,,,,,,,,,,370,1208,271,790,,,,,40.77386,-73.98224
+nyc/seniors_upper-west-side_report.pdf,W 66th St and Broadway,x,date,12:00-13:00,,,,,,,,,,,,,410,455,323,796,,,,,40.77386,-73.98224
+nyc/seniors_upper-west-side_report.pdf,W 66th St and Broadway,x,date,17:00-18:00,,,,,,,,,,,,,487,840,361,1231,,,,,40.77386,-73.98224
+nyc/seniors_upper-west-side_report.pdf,W 72nd St and Broadway,x,date,09:00-10:00,,,,,,,,,,,,,594,354,222,256,,,,,40.77879,-73.98209
+nyc/seniors_upper-west-side_report.pdf,W 72nd St and Broadway,x,date,12:00-13:00,,,,,,,,,,,,,671,200,193,486,,,,,40.77879,-73.98209
+nyc/seniors_upper-west-side_report.pdf,W 72nd St and Broadway,x,date,17:00-18:00,,,,,,,,,,,,,947,306,330,605,,,,,40.77879,-73.98209
+nyc/seniors_upper-west-side_report.pdf,W 73rd St and Amsterdam Ave,x,date,09:00-10:00,,,,,,,,,,,,,341,402,706,246,,,,,40.77926,-73.98121
+nyc/seniors_upper-west-side_report.pdf,W 73rd St and Amsterdam Ave,x,date,12:00-13:00,,,,,,,,,,,,,430,438,366,276,,,,,40.77926,-73.98121
+nyc/seniors_upper-west-side_report.pdf,W 73rd St and Amsterdam Ave,x,date,17:00-18:00,,,,,,,,,,,,,399,496,414,305,,,,,40.77926,-73.98121
+nyc/seniors_upper-west-side_report.pdf,W 73rd St and Broadway,x,date,09:00-10:00,,,,,,,,,,,,,268,244,590,367,,,,,40.77953,-73.98174
+nyc/seniors_upper-west-side_report.pdf,W 73rd St and Broadway,x,date,12:00-13:00,,,,,,,,,,,,,170,239,301,594,,,,,40.77953,-73.98174
+nyc/seniors_upper-west-side_report.pdf,W 73rd St and Broadway,x,date,17:00-18:00,,,,,,,,,,,,,363,506,477,954,,,,,40.77953,-73.98174
+nyc/seniors_upper-west-side_report.pdf,W 79th St and Amsterdam Ave,x,date,09:00-10:00,,,,,,,,,,,,,276,295,281,247,,,,,40.78317,-73.97835
+nyc/seniors_upper-west-side_report.pdf,W 79th St and Amsterdam Ave,x,date,12:00-13:00,,,,,,,,,,,,,280,304,216,380,,,,,40.78317,-73.97835
+nyc/seniors_upper-west-side_report.pdf,W 79th St and Amsterdam Ave,x,date,17:00-18:00,,,,,,,,,,,,,379,321,299,304,,,,,40.78317,-73.97835
 nyc/wc_chap17_transitpeds_deis.pdf,Gansevoort St and Washington St,x,date,09:00-09:15,,,,,,,,,,,,,2,4(extrapolated),2(extrapolated),4,,,,,40.73940,-74.00806
 nyc/wc_chap17_transitpeds_deis.pdf,Gansevoort St and Washington St,x,date,12:00-12:15,,,,,,,,,,,,,6,11(extrapolated),6(extrapolated),11,,,,,40.73940,-74.00806
 nyc/wc_chap17_transitpeds_deis.pdf,Gansevoort St and Washington St,x,date,17:00-17:15,,,,,,,,,,,,,4,11(extrapolated),4(extrapolated),11,,,,,40.73940,-74.00806

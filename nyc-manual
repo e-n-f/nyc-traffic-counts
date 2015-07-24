@@ -1760,7 +1760,7 @@ N: AM 41 PM 19
 W: AM 110 PM 86
 
 
-/Users/enf/traffic/nyc-traffic-counts/nyc/app_s.5_pedestrian_analysis_fgeis_final.pdf 
+/Users/enf/traffic/nyc-traffic-counts/nyc/app_s.5_pedestrian_analysis_fgeis_final.pdf
 15 min
 
 - Rt 9A & West 30th St
@@ -2419,7 +2419,7 @@ E: AM 20 + 14 MD 47 + 39 PM 80 + 33
 S: AM 44 + 56 MD 94 + 67 PM 128 + 114
 W: AM 18 + 17 MD 41 + 58 PM 45 + 62
 
-/Users/enf/traffic/nyc-traffic-counts/nyc/2015-01-willoughby-existing-conditions.pdf 
+/Users/enf/traffic/nyc-traffic-counts/nyc/2015-01-willoughby-existing-conditions.pdf
 60 min
 
 - Jay St and Willoughby St
@@ -2561,3 +2561,214 @@ N: AM 303 PM 836
 E: AM 59 PM 262
 S: AM 334 PM 784
 W: AM 158 PM 269
+
+/Users/enf/traffic/nyc-traffic-counts/nyc/2012-08-13-safe-streets-seniors-washington-hts-report.pdf
+60 min
+
+- W 178th St and Ft Washington
+40.8485633,-73.9392181
+N: AM 26 PM 46
+E: AM 389 PM 423
+S: AM 46 PM 148
+W: AM 159 PM 190
+
+- W 178th St and Broadway
+40.8483833,-73.9376828
+N: AM 89 PM 143
+E: AM 205 PM 437
+S: AM 88 PM 346
+W: AM 329 PM 759
+
+- W 175th St and Broadway
+40.8461418,-73.9384267
+N: AM 101
+E: AM 128
+S: AM 206
+W: AM 336
+
+- W 184th St and Broadway
+40.8520858,-73.9347806
+N: AM 283 PM 262
+E: AM 248 PM 696
+W: AM 98 PM 143
+S: AM 149 PM 288
+
+- W 178th St and Audubon
+40.8467593,-73.9337496
+N: AM 74 PM 56
+E: AM 311 PM 141
+S: AM 49 PM 50
+W: AM 218 PM 97
+
+
+/Users/enf/traffic/nyc-traffic-counts/nyc/chapter\ 2_c1h_feis.pdf
+60 min
+
+- Greenpoint Ave at McGuinness Blvd
+40.7304411,-73.9515002
+W: AM 7 + 8 PM 11 + 15
+E: AM 15 + 10 PM 11 + 25
+S: AM 10 + 84 PM 66 + 19
+N: AM 16 + 5 PM 8 + 20
+
+# What do they even mean about this complex intersection?
+#
+# - Greenpoint Ave at Queens Blvd
+# 40.7429547,-73.9168727
+# W: AM 7 + 4 PM 2 + 27
+# E: AM 102 + 63 PM 23 + 10
+# S: AM 170 + 28 PM 109 + 84
+# N: AM 45 + 34 PM 30 + 21
+#
+# - Roosevelt Ave at Queens Blvd
+# W: AM 14 + 41 PM 49 + 10
+# E: AM 51 + 54 PM 38 + 55
+# S: AM 205 + 34 PM 122 + 92
+# N: AM 33 + 177 PM 159 + 149
+#
+# What to do with Meeker Ave and LIE frontage roads?
+# Are they separate streets for this purpose?
+
+
+/Users/enf/traffic/nyc-traffic-counts/nyc/ci_pedbikes\ copy.pdf
+60 min
+
+- Bay Parkway and 86th St
+40.6019205,-73.9937764
+N: PM 458 + 241
+E: PM 330 + 361
+S: PM 364 + 218
+W: PM 309 + 329
+
+- Bay Parkway and Cropsey Ave
+40.5972618,-73.9986934
+N: PM 39 + 41
+E: PM 38 + 51
+S: PM 8 + 15
+W: PM 25 + 46
+
+- Crospey Ave and W 17th St
+40.6038241,-74.0098062
+N: PM 12 + 8
+E: PM 3 + 13
+S: PM 9 + 13
+W: PM 7 + 19
+
+- Mermaid Ave and W 17th St
+40.5766176,-73.9847887
+N: PM 39 + 42
+E: PM 259 + 80
+S: PM 26 + 26
+W: PM 41 + 27
+
+- Stillwell Ave and 86th St
+40.5967412,-73.9852559
+N: PM 35 + 76
+E: PM 10 + 8
+S: PM 33 + 64
+W: PM 16 + 13
+
+- Stillwell Ave and Harway Ave
+40.5872438,-73.9834012
+N: PM 0 + 0
+E: PM 8 + 6
+S: PM 0 + 0
+W: PM 15 + 6
+
+- Stillwell Ave and Mermaid Ave
+40.5769686,-73.9815447
+N: PM 67 + 21
+E: PM 9 + 11
+S: PM 77 + 39
+W: PM 113 + 73
+
+- Kings Highway and McDonald Ave
+40.6042038,-73.9722776
+N: PM 34 + 94
+E: PM 75 + 201
+S: PM 58 + 60
+W: PM 40 + 34
+
+- Ave X and McDonald Ave
+40.5901263,-73.974151
+N: PM 375 + 13
+E: PM 56 + 33
+S: PM 66 + 287
+W: PM 34 + 23
+
+- W 8th St and Surf Ave
+40.5753223,-73.9766436
+N: PM 49 + 44
+E: PM 12 + 4
+S: PM 11 + 9
+W: PM 5 + 1
+
+- Ocean Parkway and Kings Highway
+40.6056376,-73.9669794
+N: PM 71 + 48
+E: PM 11 + 25
+S: PM 69 + 70
+W: PM 16 + 26
+
+- Ocean Parkway and Ave X
+40.5910824,-73.965152
+N: PM 21 + 25
+E: PM 24 + 18
+S: PM 14 + 17
+W: PM 22 + 5
+
+- Ocean Parkway and Ave Z
+40.5866569,-73.9661945
+N: PM 19 + 19
+E: PM 48 + 21
+S: PM 36 + 37
+W: PM 17 + 17
+
+- Ocean Parkway and Neptune Ave
+40.5803772,-73.9676338
+N: PM 73 + 92
+E: PM 131 + 64
+S: PM 52 + 41
+W: PM 70 + 46
+
+- Ocean Parkway and Brighton Beach Ave
+40.5763105,-73.9685742
+N: PM 73 + 116
+E: PM 29 + 32
+S: PM 137 + 83
+W: PM 16 + 11
+
+- Coney Island Ave and Kings Highway
+40.6073141,-73.9618647
+N: PM 279 + 208
+E: PM 129 + 142
+S: PM 213 + 231
+W: PM 65 + 66
+
+- Coney Island Ave and Guider Ave
+40.5832904,-73.9600664
+N: PM 9 + 8
+E: PM 32 + 30
+S: PM 21 + 28
+W: PM 30 + 14
+
+- Coney Island Ave and Neptune Ave
+40.5819876,-73.9599226
+N: PM 58 + 57
+E: PM 81 + 27
+S: PM 45 + 98
+W: PM 78 + 22
+
+- Coney Island Ave and Brighton Beach Ave
+40.5779983,-73.959643
+N: PM 202 + 360
+E: PM 45 + 54
+S: PM 170 + 402
+W: PM 112 + 129
+
+- Brighton Beach Ave and Brighton 11th St
+40.578142,-73.9589162
+N: PM 332 + 377
+E: PM 9 + 15
+S: PM 136 + 198
+W: PM 9 + 14

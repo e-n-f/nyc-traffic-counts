@@ -245,6 +245,14 @@ nyc/17_fseis.pdf,West 60th Street and West End Ave.,x,date,17:00-17:15,,,,,,,,,,
 nyc/17_fseis.pdf,West 61st Street and West End Avenue,x,date,09:00-09:15,,,,,,,,,,,,,36(extrapolated),38(extrapolated),36,38,,,,,40.77286,-73.98959
 nyc/17_fseis.pdf,West 61st Street and West End Avenue,x,date,12:00-12:15,,,,,,,,,,,,,3(extrapolated),44(extrapolated),3,44,,,,,40.77286,-73.98959
 nyc/17_fseis.pdf,West 61st Street and West End Avenue,x,date,17:00-17:15,,,,,,,,,,,,,44(extrapolated),39(extrapolated),44,39,,,,,40.77286,-73.98959
+nyc/2010_midwood_final_report.pdf,Avenue P and Coney Island Ave,x,date,09:00-10:00,,,,,,,,,,,,,95,55,179,53,,,,,40.6099373,-73.9623785
+nyc/2010_midwood_final_report.pdf,Avenue P and Coney Island Ave,x,date,17:00-18:00,,,,,,,,,,,,,65,83,79,78,,,,,40.6099373,-73.9623785
+nyc/2010_midwood_final_report.pdf,Avenue P and E 19th St,x,date,09:00-10:00,,,,,,,,,,,,,115,46,19,99,,,,,40.6107787,-73.9548181
+nyc/2010_midwood_final_report.pdf,Avenue P and E 19th St,x,date,17:00-18:00,,,,,,,,,,,,,74,62,63,117,,,,,40.6107787,-73.9548181
+nyc/2010_midwood_final_report.pdf,Kings Highway and Coney Island Ave,x,date,09:00-10:00,,,,,,,,,,,,,374,203,498,275,,,,,40.6073282,-73.9619091
+nyc/2010_midwood_final_report.pdf,Kings Highway and Coney Island Ave,x,date,17:00-18:00,,,,,,,,,,,,,145,112,279,146,,,,,40.6073282,-73.9619091
+nyc/2010_midwood_final_report.pdf,Kings Highway and E 16th St,x,date,09:00-10:00,,,,,,,,,,,,,303,59,334,158,,,,,40.6090477,-73.95739
+nyc/2010_midwood_final_report.pdf,Kings Highway and E 16th St,x,date,17:00-18:00,,,,,,,,,,,,,836,262,784,269,,,,,40.6090477,-73.95739
 nyc/2011_bowery-houston-bleecker_study-technical-memo1.pdf,1st Ave and Houston,x,date,17:00-18:00,,,,,,,,,,,,,415,267,1058,315,,,,,40.72295,-73.98867
 nyc/2011_bowery-houston-bleecker_study-technical-memo1.pdf,8th St / Astor Place / 4th Ave,x,date,17:00-18:00,,,,,,,,,,,,,2236,165,1533,578,,,,,40.72986,-73.99074
 nyc/2011_bowery-houston-bleecker_study-technical-memo1.pdf,Bleecker and Lafayette,x,date,17:00-18:00,,,,,,,,,,,,,653,163,810,923,,,,,40.72593,-73.99468
@@ -700,6 +708,12 @@ nyc/http://www.nyc.gov/html/oec/downloads/pdf/dme_projects/07DME025M/FEIS/07DME0
 nyc/http://www.nyc.gov/html/oec/downloads/pdf/dme_projects/07DME025M/FEIS/07DME025M_%20FEIS_17_Transit_and_Pedestrians.pdf,E 127th St and 3rd Ave,x,date,17:00-17:15,,,,,,,,,,,,,2(extrapolated),2,2,2(extrapolated),,,,,40.80495,-73.93489
 nyc/qntransfiguration.pdf,38th Ave and 98th St,x,date,09:00-10:00,,,,,,,,,,,,,83,52,110,91,,,,,40.750181,-73.868009
 nyc/qntransfiguration.pdf,38th Ave and 99th St,x,date,09:00-10:00,,,,,,,,,,,,,104,157,67,86,,,,,40.750465,-73.867151
+nyc/seniors_jamaica_report.pdf,Hillside Ave and 178th St,x,date,09:00-10:00,,,,,,,,,,,,,172,43,222,47,,,,,40.7121393,-73.7853708
+nyc/seniors_jamaica_report.pdf,Hillside Ave and 178th St,x,date,17:00-18:00,,,,,,,,,,,,,270,51,222,73,,,,,40.7121393,-73.7853708
+nyc/seniors_jamaica_report.pdf,Hillside Ave and Midland Pkwy and 180th St,x,date,09:00-10:00,,,,,,,,,,,,,229,35,291,121,,,,,40.7129831,-73.7824316
+nyc/seniors_jamaica_report.pdf,Hillside Ave and Midland Pkwy and 180th St,x,date,17:00-18:00,,,,,,,,,,,,,260,45,457,136,,,,,40.7129831,-73.7824316
+nyc/seniors_pelhamgardens_finalreport.pdf,Eastchester Road and Allerton Ave,x,date,09:00-10:00,,,,,,,,,,,,,26,26,13,28,,,,,40.8652051,-73.843364
+nyc/seniors_pelhamgardens_finalreport.pdf,Eastchester Road and Allerton Ave,x,date,17:00-18:00,,,,,,,,,,,,,21,21,31,21,,,,,40.8652051,-73.843364
 nyc/seniors_upper-west-side_report.pdf,81st St and Central Park West,x,date,09:00-10:00,,,,,,,,,,,,,136,81,49,270,,,,,40.78205,-73.97179
 nyc/seniors_upper-west-side_report.pdf,81st St and Central Park West,x,date,12:00-13:00,,,,,,,,,,,,,148,133,99,230,,,,,40.78205,-73.97179
 nyc/seniors_upper-west-side_report.pdf,81st St and Central Park West,x,date,17:00-18:00,,,,,,,,,,,,,144,97,75,177,,,,,40.78205,-73.97179

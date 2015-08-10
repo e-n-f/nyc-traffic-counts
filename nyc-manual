@@ -2772,3 +2772,48 @@ N: PM 332 + 377
 E: PM 9 + 15
 S: PM 136 + 198
 W: PM 9 + 14
+
+
+http://www.nycedc.com/sites/default/files/filemanager/Projects/St_George_Waterfront/DEIS/13SBS001R_DEIS_14_Transportation.pdf
+60 min
+
+- Broad St and Water St
+40.7029384,-74.0115063
+N: MD 171 + 147 PM 215 + 145
+S: MD 294 + 216 PM 727 + 288
+E: MD 194 + 199 PM 133 + 627
+W: MD 327 + 327 PM 148 + 295
+
+
+http://www.nyc.gov/html/oec/downloads/pdf/dme_projects/13DME003M/13DME003M_DEIS/13DME003M_DEIS_09_Transportation.pdf
+60 min
+
+- 73rd St and York Ave
+40.7674908,-73.9532513
+N: AM 18 + 24 MD 44 + 26 PM 36 + 18
+E: AM 367 + 250 MD 263 + 277 PM 165 + 232
+W: AM 323 + 190 MD 173 + 168 PM 232 + 236
+
+- 72nd St and York Ave
+40.7668062,-73.9537569
+N: AM 118 + 191 MD 185 + 136 PM 229 + 116
+E: AM 439 + 219 MD 404 + 398 PM 221 + 335
+W: AM 454 + 230 MD 215 + 227 PM 210 + 314
+
+
+http://www.nyc.gov/html/oec/downloads/pdf/dme_projects/11DME012M/dgeis/11DME012M_DGEIS_13_Transportation.pdf
+15 min
+
+- Delancey St and Essex St
+40.7185274,-73.9881948
+N: AM 291 MD 325 PM 329
+E: AM 98 MD 119 PM 113
+S: AM 62 MD 86 PM 90
+W: AM 190 MD 273 PM 152
+
+- Delancey St and Suffolk St
+40.7180055,-73.9865567
+N: AM 494 MD 303 PM 439
+E: AM 30 MD 19 PM 63
+S: AM 23 MD 24 PM 31
+W: AM 30 MD 22 PM 26

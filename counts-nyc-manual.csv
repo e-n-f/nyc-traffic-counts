@@ -704,6 +704,8 @@ nyc/http://www.nyc.gov/html/dcp/pdf/env_review/770_11thavenue/14_feis.pdf,11th A
 nyc/http://www.nyc.gov/html/dcp/pdf/env_review/770_11thavenue/14_feis.pdf,11th Ave and W 53rd St,x,date,17:00-17:15,,,,,,,,,,,,,55,26,55(extrapolated),26(extrapolated),,,,,40.76776,-73.99330
 nyc/http://www.nyc.gov/html/dcp/pdf/env_review/770_11thavenue/14_feis.pdf,11th Ave and W 54th St,x,date,09:00-09:15,,,,,,,,,,,,,46(extrapolated),49,46,49(extrapolated),,,,,40.76841,-73.99287
 nyc/http://www.nyc.gov/html/dcp/pdf/env_review/770_11thavenue/14_feis.pdf,11th Ave and W 54th St,x,date,17:00-17:15,,,,,,,,,,,,,35(extrapolated),34,35,34(extrapolated),,,,,40.76841,-73.99287
+nyc/http://www.nyc.gov/html/dot/downloads/pdf/2015-01-willoughby-existing-conditions.pdf,Jay St and Willoughby St,x,date,17:00-17:00,,,,,,,,,,,,,758,772,710,787,,,,,40.6922041,-73.9872925
+nyc/http://www.nyc.gov/html/dot/downloads/pdf/2015-01-willoughby-existing-conditions.pdf,Pearl St and Willoughby St,x,date,17:00-17:00,,,,,,,,,,,,,1218,92,436,92(extrapolated),,,,,40.6922636,-73.9882111
 nyc/http://www.nyc.gov/html/dot/downloads/pdf/uwsfindings0510.pdf,11th Ave and 65th St,x,date,17:00-18:00,,,,,,,,,,,,,208,103,67,24,,,,,40.77535,-73.98774
 nyc/http://www.nyc.gov/html/dot/downloads/pdf/uwsfindings0510.pdf,57th St and 10th Ave,x,date,17:00-18:00,,,,,,,,,,,,,556,615,688,662,,,,,40.76910,-73.98859
 nyc/http://www.nyc.gov/html/dot/downloads/pdf/uwsfindings0510.pdf,57th St and 9th Ave,x,date,17:00-18:00,,,,,,,,,,,,,730,867,951,748,,,,,40.76791,-73.98576
@@ -751,6 +753,8 @@ nyc/http://www.nyc.gov/html/oec/downloads/pdf/dme_projects/13DME003M/13DME003M_D
 nyc/http://www.nyc.gov/html/oec/downloads/pdf/dme_projects/13DME003M/13DME003M_DEIS/13DME003M_DEIS_09_Transportation.pdf,73rd St and York Ave,x,date,17:00-18:00,,,,,,,,,,,,,54,397,54(extrapolated),468,,,,,40.7674908,-73.9532513
 nyc/http://www.nycedc.com/sites/default/files/filemanager/Projects/St_George_Waterfront/DEIS/13SBS001R_DEIS_14_Transportation.pdf,Broad St and Water St,x,date,12:00-13:00,,,,,,,,,,,,,318,393,510,654,,,,,40.7029384,-74.0115063
 nyc/http://www.nycedc.com/sites/default/files/filemanager/Projects/St_George_Waterfront/DEIS/13SBS001R_DEIS_14_Transportation.pdf,Broad St and Water St,x,date,17:00-18:00,,,,,,,,,,,,,360,760,1015,443,,,,,40.7029384,-74.0115063
+nyc/http://www1.nyc.gov/assets/planning/download/pdf/applicants/env-review/eas/16dcp084m_eas.pdf,Water St and Coenties Slip,x,date,12:00-13:00,,,,,,,,,,,,,70,62,93,55,,,,,40.7032753,-74.0102513
+nyc/http://www1.nyc.gov/assets/planning/download/pdf/applicants/env-review/eas/16dcp084m_eas.pdf,Water St and Hanover Square,x,date,12:00-13:00,,,,,,,,,,,,,61,52,80,6,,,,,40.7040778,-74.0090145
 nyc/qntransfiguration.pdf,38th Ave and 98th St,x,date,09:00-10:00,,,,,,,,,,,,,83,52,110,91,,,,,40.750181,-73.868009
 nyc/qntransfiguration.pdf,38th Ave and 99th St,x,date,09:00-10:00,,,,,,,,,,,,,104,157,67,86,,,,,40.750465,-73.867151
 nyc/seniors_jamaica_report.pdf,Hillside Ave and 178th St,x,date,09:00-10:00,,,,,,,,,,,,,172,43,222,47,,,,,40.7121393,-73.7853708

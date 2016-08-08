@@ -2834,3 +2834,21 @@ N: MD 32 + 29
 E: MD 26 + 26
 S: MD 40 + 40
 W: MD 3 + 3
+
+http://www.nycedc.com/sites/default/files/filemanager/DEIS/15DME009Y_DEIS_Appendix_B.pdf
+60 min
+
+- Water St and Wall St
+40.7051613,-74.0074009
+N: AM 5 + 126 PM 131 + 5
+E: AM 126 + 4 PM 5 + 131
+S: AM 1 + 63 PM 65 + 3
+W: AM 201 + 7 PM 7 + 210
+
+- Front St and Wall St
+40.7047643,-74.0069301
+N: AM 4 + 126 PM 130 + 5
+E: AM 126 + 5 PM 7 + 130
+S: AM 5 + 151 PM 157 + 6
+W: AM 315 + 12 PM 12 + 327
+

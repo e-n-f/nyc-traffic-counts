@@ -619,6 +619,34 @@ nyc/gw_feis_ch_17.pdf,Manhattan Ave and India St,x,date,09:00-09:15,,,,,,,,,,,,,
 nyc/gw_feis_ch_17.pdf,Manhattan Ave and India St,x,date,17:00-17:15,,,,,,,,,,,,,39,146,56,204,,,,,40.73235,-73.95463
 nyc/gw_feis_ch_17.pdf,Manhattan Ave and Nassau Ave,x,date,09:00-09:15,,,,,,,,,,,,,43,57,68,57,,,,,40.72375,-73.95081
 nyc/gw_feis_ch_17.pdf,Manhattan Ave and Nassau Ave,x,date,17:00-17:15,,,,,,,,,,,,,51,127,102,94,,,,,40.72375,-73.95081
+nyc/http://web.mta.info/capital/sas_docs/feis/onstreetped.pdf,2nd Ave and E 14th St,x,date,09:00-09:15,,,,,,,,,,,,,141,113,198,137,,,,,40.7323238,-73.9849126
+nyc/http://web.mta.info/capital/sas_docs/feis/onstreetped.pdf,2nd Ave and E 14th St,x,date,17:00-17:15,,,,,,,,,,,,,182,106,257,137,,,,,40.7323238,-73.9849126
+nyc/http://web.mta.info/capital/sas_docs/feis/onstreetped.pdf,2nd Ave and E 42nd St,x,date,09:00-09:15,,,,,,,,,,,,,344,222,252,354,,,,,40.7498086,-73.9721661
+nyc/http://web.mta.info/capital/sas_docs/feis/onstreetped.pdf,2nd Ave and E 42nd St,x,date,17:00-17:15,,,,,,,,,,,,,441,184,261,213,,,,,40.7498086,-73.9721661
+nyc/http://web.mta.info/capital/sas_docs/feis/onstreetped.pdf,2nd Ave and E 44th St,x,date,09:00-09:15,,,,,,,,,,,,,172,225,140,221,,,,,40.7510872,-73.9712421
+nyc/http://web.mta.info/capital/sas_docs/feis/onstreetped.pdf,2nd Ave and E 44th St,x,date,17:00-17:15,,,,,,,,,,,,,124,270,153,221,,,,,40.7510872,-73.9712421
+nyc/http://web.mta.info/capital/sas_docs/feis/onstreetped.pdf,2nd Ave and E 72nd St,x,date,09:00-09:15,,,,,,,,,,,,,117,101,127,198,,,,,40.7687791,-73.9584399
+nyc/http://web.mta.info/capital/sas_docs/feis/onstreetped.pdf,2nd Ave and E 72nd St,x,date,17:00-17:15,,,,,,,,,,,,,121,150,139,200,,,,,40.7687791,-73.9584399
+nyc/http://web.mta.info/capital/sas_docs/feis/onstreetped.pdf,2nd Ave and E 86th St,x,date,09:00-09:15,,,,,,,,,,,,,346,105,228,184,,,,,40.7778827,-73.9517947
+nyc/http://web.mta.info/capital/sas_docs/feis/onstreetped.pdf,2nd Ave and E 86th St,x,date,17:00-17:15,,,,,,,,,,,,,285,194,324,227,,,,,40.7778827,-73.9517947
+nyc/http://web.mta.info/capital/sas_docs/feis/onstreetped.pdf,2nd Ave and E 94th St,x,date,09:00-09:15,,,,,,,,,,,,,68,74,73,139,,,,,40.7829704,-73.9480587
+nyc/http://web.mta.info/capital/sas_docs/feis/onstreetped.pdf,2nd Ave and E 94th St,x,date,17:00-17:15,,,,,,,,,,,,,38,110,50,85,,,,,40.7829704,-73.9480587
+nyc/http://web.mta.info/capital/sas_docs/feis/onstreetped.pdf,2nd Ave and E 96th St,x,date,09:00-09:15,,,,,,,,,,,,,152,65,94,117,,,,,40.7842324,-73.947139
+nyc/http://web.mta.info/capital/sas_docs/feis/onstreetped.pdf,2nd Ave and E 96th St,x,date,17:00-17:15,,,,,,,,,,,,,26,42,35,90,,,,,40.7842324,-73.947139
+nyc/http://web.mta.info/capital/sas_docs/feis/onstreetped.pdf,6th Ave and 32nd St,x,date,09:00-09:15,,,,,,,,,,,,,617,331,617(extrapolated),331(extrapolated),,,,,40.7484944,-73.9887245
+nyc/http://web.mta.info/capital/sas_docs/feis/onstreetped.pdf,6th Ave and 32nd St,x,date,17:00-17:15,,,,,,,,,,,,,735,316,735(extrapolated),316(extrapolated),,,,,40.7484944,-73.9887245
+nyc/http://web.mta.info/capital/sas_docs/feis/onstreetped.pdf,7th Ave and 40th St,x,date,09:00-09:15,,,,,,,,,,,,,599(extrapolated),631,599,631(extrapolated),,,,,40.7547329,-73.9879081
+nyc/http://web.mta.info/capital/sas_docs/feis/onstreetped.pdf,7th Ave and 40th St,x,date,17:00-17:15,,,,,,,,,,,,,440(extrapolated),584,440,584(extrapolated),,,,,40.7547329,-73.9879081
+nyc/http://web.mta.info/capital/sas_docs/feis/onstreetped.pdf,Fulton St and Water St and Pearl St,x,date,09:00-09:15,,,,,,,,,,,,,35,29,35(extrapolated),191,,,,,40.7074139,-74.0040526
+nyc/http://web.mta.info/capital/sas_docs/feis/onstreetped.pdf,Fulton St and Water St and Pearl St,x,date,17:00-17:15,,,,,,,,,,,,,35,163,35(extrapolated),264,,,,,40.7074139,-74.0040526
+nyc/http://web.mta.info/capital/sas_docs/feis/onstreetped.pdf,Hanover St and Old Slip and Water St,x,date,09:00-09:15,,,,,,,,,,,,,133,169,257,121,,,,,40.7040951,-74.0089571
+nyc/http://web.mta.info/capital/sas_docs/feis/onstreetped.pdf,Hanover St and Old Slip and Water St,x,date,17:00-17:15,,,,,,,,,,,,,98,208,217,118,,,,,40.7040951,-74.0089571
+nyc/http://web.mta.info/capital/sas_docs/feis/onstreetped.pdf,Lexington Ave and E 125th St,x,date,09:00-09:15,,,,,,,,,,,,,101,146,101,114,,,,,40.80437,-73.9374272
+nyc/http://web.mta.info/capital/sas_docs/feis/onstreetped.pdf,Lexington Ave and E 125th St,x,date,17:00-17:15,,,,,,,,,,,,,121,133,172,138,,,,,40.80437,-73.9374272
+nyc/http://web.mta.info/capital/sas_docs/feis/onstreetped.pdf,Lexington Ave and E 42nd St,x,date,09:00-09:15,,,,,,,,,,,,,833,492,833(extrapolated),807,,,,,40.751438,-73.9760428
+nyc/http://web.mta.info/capital/sas_docs/feis/onstreetped.pdf,Lexington Ave and E 42nd St,x,date,17:00-17:15,,,,,,,,,,,,,909,573,909(extrapolated),787,,,,,40.751438,-73.9760428
+nyc/http://web.mta.info/capital/sas_docs/feis/onstreetped.pdf,Water St and Wall St,x,date,09:00-09:15,,,,,,,,,,,,,554,181,580,153,,,,,40.7051598,-74.0073865
+nyc/http://web.mta.info/capital/sas_docs/feis/onstreetped.pdf,Water St and Wall St,x,date,17:00-17:15,,,,,,,,,,,,,532,293,633,160,,,,,40.7051598,-74.0073865
 nyc/http://web.mta.info/mta/planning/wry/feis_pdfs/appendices/Appendix%20E%20Transportation%20Technical%20Memos%20and%20Analyses%20revised.pdf,10th Ave and W 29th St,x,date,09:00-09:15,,,,,,,,,,,,,7,12,6,19,,,,,40.75145,-74.00145
 nyc/http://web.mta.info/mta/planning/wry/feis_pdfs/appendices/Appendix%20E%20Transportation%20Technical%20Memos%20and%20Analyses%20revised.pdf,10th Ave and W 30th St,x,date,09:00-09:15,,,,,,,,,,,,,7,16,0,18,,,,,40.75202,-74.00100
 nyc/http://web.mta.info/mta/planning/wry/feis_pdfs/appendices/Appendix%20E%20Transportation%20Technical%20Memos%20and%20Analyses%20revised.pdf,10th Ave and W 30th St,x,date,12:00-12:15,,,,,,,,,,,,,4,9,6,12,,,,,40.75202,-74.00100
@@ -757,6 +785,26 @@ nyc/http://www.nycedc.com/sites/default/files/filemanager/Projects/St_George_Wat
 nyc/http://www.nycedc.com/sites/default/files/filemanager/Projects/St_George_Waterfront/DEIS/13SBS001R_DEIS_14_Transportation.pdf,Broad St and Water St,x,date,17:00-18:00,,,,,,,,,,,,,360,760,1015,443,,,,,40.7029384,-74.0115063
 nyc/http://www1.nyc.gov/assets/planning/download/pdf/applicants/env-review/eas/16dcp084m_eas.pdf,Water St and Coenties Slip,x,date,12:00-13:00,,,,,,,,,,,,,70,62,93,55,,,,,40.7032753,-74.0102513
 nyc/http://www1.nyc.gov/assets/planning/download/pdf/applicants/env-review/eas/16dcp084m_eas.pdf,Water St and Hanover Square,x,date,12:00-13:00,,,,,,,,,,,,,61,52,80,6,,,,,40.7040778,-74.0090145
+nyc/https://books.google.com/books?id=ot03AQAAMAAJ&pg=PT128,10th Ave and 28th St,x,date,09:00-10:00,,,,,,,,,,,,,27,24,26,87,,,,,40.7508092,-74.0018527
+nyc/https://books.google.com/books?id=ot03AQAAMAAJ&pg=PT128,10th Ave and 28th St,x,date,17:00-18:00,,,,,,,,,,,,,38,95,99,142,,,,,40.7508092,-74.0018527
+nyc/https://books.google.com/books?id=ot03AQAAMAAJ&pg=PT128,10th Ave and 29th St,x,date,09:00-10:00,,,,,,,,,,,,,92,74,23,42,,,,,40.7514416,-74.0014101
+nyc/https://books.google.com/books?id=ot03AQAAMAAJ&pg=PT128,10th Ave and 29th St,x,date,17:00-18:00,,,,,,,,,,,,,67,99,17,46,,,,,40.7514416,-74.0014101
+nyc/https://books.google.com/books?id=ot03AQAAMAAJ&pg=PT128,10th Ave and 30th St,x,date,09:00-10:00,,,,,,,,,,,,,23,49,47,74,,,,,40.7520431,-74.0010098
+nyc/https://books.google.com/books?id=ot03AQAAMAAJ&pg=PT128,10th Ave and 30th St,x,date,17:00-18:00,,,,,,,,,,,,,22,56,45,59,,,,,40.7520431,-74.0010098
+nyc/https://books.google.com/books?id=ot03AQAAMAAJ&pg=PT128,8th Ave and 31st St,x,date,09:00-10:00,,,,,,,,,,,,,1020,1758,891,1245,,,,,40.7502605,-73.9948427
+nyc/https://books.google.com/books?id=ot03AQAAMAAJ&pg=PT128,8th Ave and 31st St,x,date,17:00-18:00,,,,,,,,,,,,,1125,1636,750,1110,,,,,40.7502605,-73.9948427
+nyc/https://books.google.com/books?id=ot03AQAAMAAJ&pg=PT128,8th Ave and 33rd St,x,date,09:00-10:00,,,,,,,,,,,,,905,830,1517,976,,,,,40.7515,-73.9939469
+nyc/https://books.google.com/books?id=ot03AQAAMAAJ&pg=PT128,8th Ave and 33rd St,x,date,17:00-18:00,,,,,,,,,,,,,479,1121,1887,1007,,,,,40.7515,-73.9939469
+nyc/https://books.google.com/books?id=ot03AQAAMAAJ&pg=PT128,9th Ave and 28th St,x,date,09:00-10:00,,,,,,,,,,,,,50,83,103,133,,,,,40.7496136,-73.9990716
+nyc/https://books.google.com/books?id=ot03AQAAMAAJ&pg=PT128,9th Ave and 28th St,x,date,17:00-18:00,,,,,,,,,,,,,86,282,148,293,,,,,40.7496136,-73.9990716
+nyc/https://books.google.com/books?id=ot03AQAAMAAJ&pg=PT128,9th Ave and 29th St,x,date,09:00-10:00,,,,,,,,,,,,,89,126,62,177,,,,,40.7502598,-73.9986391
+nyc/https://books.google.com/books?id=ot03AQAAMAAJ&pg=PT128,9th Ave and 29th St,x,date,17:00-18:00,,,,,,,,,,,,,99,230,129,207,,,,,40.7502598,-73.9986391
+nyc/https://books.google.com/books?id=ot03AQAAMAAJ&pg=PT128,9th Ave and 30th St,x,date,09:00-10:00,,,,,,,,,,,,,92,200,279,359,,,,,40.7508937,-73.9981657
+nyc/https://books.google.com/books?id=ot03AQAAMAAJ&pg=PT128,9th Ave and 30th St,x,date,17:00-18:00,,,,,,,,,,,,,87,318,268,459,,,,,40.7508937,-73.9981657
+nyc/https://books.google.com/books?id=ot03AQAAMAAJ&pg=PT128,9th Ave and 31st St,x,date,09:00-10:00,,,,,,,,,,,,,51,279,441,303,,,,,40.7514637,-73.9977493
+nyc/https://books.google.com/books?id=ot03AQAAMAAJ&pg=PT128,9th Ave and 31st St,x,date,17:00-18:00,,,,,,,,,,,,,154,355,645,220,,,,,40.7514637,-73.9977493
+nyc/https://books.google.com/books?id=ot03AQAAMAAJ&pg=PT128,9th Ave and 33rd St,x,date,09:00-10:00,,,,,,,,,,,,,460,344,1242,391,,,,,40.7527067,-73.9967676
+nyc/https://books.google.com/books?id=ot03AQAAMAAJ&pg=PT128,9th Ave and 33rd St,x,date,17:00-18:00,,,,,,,,,,,,,459,358,1625,320,,,,,40.7527067,-73.9967676
 nyc/qntransfiguration.pdf,38th Ave and 98th St,x,date,09:00-10:00,,,,,,,,,,,,,83,52,110,91,,,,,40.750181,-73.868009
 nyc/qntransfiguration.pdf,38th Ave and 99th St,x,date,09:00-10:00,,,,,,,,,,,,,104,157,67,86,,,,,40.750465,-73.867151
 nyc/seniors_jamaica_report.pdf,Hillside Ave and 178th St,x,date,09:00-10:00,,,,,,,,,,,,,172,43,222,47,,,,,40.7121393,-73.7853708

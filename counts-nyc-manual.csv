@@ -678,6 +678,7 @@ nyc/http://web.mta.info/mta/planning/wry/feis_pdfs/appendices/Appendix%20E%20Tra
 nyc/http://web.mta.info/mta/planning/wry/feis_pdfs/appendices/Appendix%20E%20Transportation%20Technical%20Memos%20and%20Analyses%20revised.pdf,9th Ave and W 33rd St,x,date,12:00-12:15,,,,,,,,,,,,,46,37,175,136,,,,,40.75274,-73.99680
 nyc/http://web.mta.info/mta/planning/wry/feis_pdfs/appendices/Appendix%20E%20Transportation%20Technical%20Memos%20and%20Analyses%20revised.pdf,9th Ave and W 34th St,x,date,09:00-09:15,,,,,,,,,,,,,222,208,289,200,,,,,40.75340,-73.99630
 nyc/http://web.mta.info/mta/planning/wry/feis_pdfs/appendices/Appendix%20E%20Transportation%20Technical%20Memos%20and%20Analyses%20revised.pdf,9th Ave and W 34th St,x,date,12:00-12:15,,,,,,,,,,,,,87,268,222,89,,,,,40.75340,-73.99630
+nyc/http://www.dasny.org/Libraries/About_SEQR_PDFs/SI_Section_12_Transit_and_Pedestrians.pdf,Hyatt St and St Marks Place,x,date,12:00-12:15,,,,,,,,,,,,,34,26,47,26(extrapolated),,,,,40.6415746,-74.0778744
 nyc/http://www.nyc.gov/html/brt/downloads/pdf/201201_brt_34th_project-analysis-report.pdf,10th Ave and 34th St,x,date,09:00-09:15,,,,,,,,,,,,,39,81,160,45,,,,,40.75461,-73.99916
 nyc/http://www.nyc.gov/html/brt/downloads/pdf/201201_brt_34th_project-analysis-report.pdf,10th Ave and 34th St,x,date,17:00-17:15,,,,,,,,,,,,,36,38,90,26,,,,,40.75461,-73.99916
 nyc/http://www.nyc.gov/html/brt/downloads/pdf/201201_brt_34th_project-analysis-report.pdf,11th Ave and 34th St,x,date,09:00-09:15,,,,,,,,,,,,,38,20,33,33,,,,,40.75581,-74.00208
@@ -765,6 +766,9 @@ nyc/http://www.nyc.gov/html/oec/downloads/pdf/dme_projects/07DME025M/FEIS/07DME0
 nyc/http://www.nyc.gov/html/oec/downloads/pdf/dme_projects/07DME025M/FEIS/07DME025M_%20FEIS_17_Transit_and_Pedestrians.pdf,E 126th St and 3rd Ave,x,date,17:00-17:15,,,,,,,,,,,,,12,9,8,9(extrapolated),,,,,40.80435,-73.93536
 nyc/http://www.nyc.gov/html/oec/downloads/pdf/dme_projects/07DME025M/FEIS/07DME025M_%20FEIS_17_Transit_and_Pedestrians.pdf,E 127th St and 3rd Ave,x,date,09:00-09:15,,,,,,,,,,,,,5(extrapolated),11,5,11(extrapolated),,,,,40.80495,-73.93489
 nyc/http://www.nyc.gov/html/oec/downloads/pdf/dme_projects/07DME025M/FEIS/07DME025M_%20FEIS_17_Transit_and_Pedestrians.pdf,E 127th St and 3rd Ave,x,date,17:00-17:15,,,,,,,,,,,,,2(extrapolated),2,2,2(extrapolated),,,,,40.80495,-73.93489
+nyc/http://www.nyc.gov/html/oec/downloads/pdf/dme_projects/08DME004X/DEIS/08DME004X_DEIS_Appendix_C_Transit_and_Pedrestrians.pdf,Jerome and Kingsbridge,x,date,17:00-17:15,,,,,,,,,,,,,144,120,101,116,,,,,40.8674696,-73.8973681
+nyc/http://www.nyc.gov/html/oec/downloads/pdf/dme_projects/08DME004X/DEIS/08DME004X_DEIS_Appendix_C_Transit_and_Pedrestrians.pdf,Reservoir and 195th St,x,date,17:00-17:15,,,,,,,,,,,,,98,37,0,7,,,,,40.8696545,-73.8989019
+nyc/http://www.nyc.gov/html/oec/downloads/pdf/dme_projects/08DME004X/DEIS/08DME004X_DEIS_Appendix_C_Transit_and_Pedrestrians.pdf,Reservoir and Kingsbridge,x,date,17:00-17:15,,,,,,,,,,,,,165,6,211,54,,,,,40.8680103,-73.899963
 nyc/http://www.nyc.gov/html/oec/downloads/pdf/dme_projects/11DME012M/dgeis/11DME012M_DGEIS_13_Transportation.pdf,Delancey St and Essex St,x,date,09:00-09:15,,,,,,,,,,,,,291,98,62,190,,,,,40.7185274,-73.9881948
 nyc/http://www.nyc.gov/html/oec/downloads/pdf/dme_projects/11DME012M/dgeis/11DME012M_DGEIS_13_Transportation.pdf,Delancey St and Essex St,x,date,12:00-12:15,,,,,,,,,,,,,325,119,86,273,,,,,40.7185274,-73.9881948
 nyc/http://www.nyc.gov/html/oec/downloads/pdf/dme_projects/11DME012M/dgeis/11DME012M_DGEIS_13_Transportation.pdf,Delancey St and Essex St,x,date,17:00-17:15,,,,,,,,,,,,,329,113,90,152,,,,,40.7185274,-73.9881948
@@ -805,6 +809,18 @@ nyc/https://books.google.com/books?id=ot03AQAAMAAJ&pg=PT128,9th Ave and 31st St,
 nyc/https://books.google.com/books?id=ot03AQAAMAAJ&pg=PT128,9th Ave and 31st St,x,date,17:00-18:00,,,,,,,,,,,,,154,355,645,220,,,,,40.7514637,-73.9977493
 nyc/https://books.google.com/books?id=ot03AQAAMAAJ&pg=PT128,9th Ave and 33rd St,x,date,09:00-10:00,,,,,,,,,,,,,460,344,1242,391,,,,,40.7527067,-73.9967676
 nyc/https://books.google.com/books?id=ot03AQAAMAAJ&pg=PT128,9th Ave and 33rd St,x,date,17:00-18:00,,,,,,,,,,,,,459,358,1625,320,,,,,40.7527067,-73.9967676
+nyc/https://www1.nyc.gov/assets/planning/download/pdf/applicants/env-review/nyu_core/14_feis.pdf,4th and Broadway,x,date,17:00-17:15,,,,,,,,,,,,,169,363(extrapolated),97,363,,,,,40.7284067,-73.9942626
+nyc/https://www1.nyc.gov/assets/planning/download/pdf/applicants/env-review/nyu_core/14_feis.pdf,8th and University,x,date,12:00-12:15,,,,,,,,,,,,,144,305,91,244,,,,,40.7315557,-73.9947911
+nyc/https://www1.nyc.gov/assets/planning/download/pdf/applicants/env-review/nyu_core/14_feis.pdf,Bleecker and Broadway,x,date,17:00-17:15,,,,,,,,,,,,,187,578,223,325,,,,,40.7264991,-73.9958473
+nyc/https://www1.nyc.gov/assets/planning/download/pdf/applicants/env-review/nyu_core/14_feis.pdf,Houston and Broadway,x,date,17:00-17:15,,,,,,,,,,,,,357,717,595,369,,,,,40.7254177,-73.9967709
+nyc/https://www1.nyc.gov/assets/planning/download/pdf/applicants/env-review/nyu_core/14_feis.pdf,LaGuardia St and 3rd St,x,date,12:00-12:15,,,,,,,,,,,,,119,118,132,98,,,,,40.7292986,-73.9978815
+nyc/https://www1.nyc.gov/assets/planning/download/pdf/applicants/env-review/nyu_core/14_feis.pdf,LaGuardia St and 3rd St,x,date,17:00-17:15,,,,,,,,,,,,,127,97,141,106,,,,,40.7292986,-73.9978815
+nyc/https://www1.nyc.gov/assets/planning/download/pdf/applicants/env-review/nyu_core/14_feis.pdf,LaGuardia St and Bleecker St,x,date,17:00-17:15,,,,,,,,,,,,,209,126,199,158,,,,,40.7280499,-73.9989759
+nyc/https://www1.nyc.gov/assets/planning/download/pdf/applicants/env-review/nyu_core/14_feis.pdf,LaGuardia and Houston St,x,date,17:00-17:15,,,,,,,,,,,,,179,113,242,107,,,,,40.7269142,-73.9998932
+nyc/https://www1.nyc.gov/assets/planning/download/pdf/applicants/env-review/nyu_core/14_feis.pdf,Mercer and Bleecker,x,date,17:00-17:15,,,,,,,,,,,,,147,142,187,124,,,,,40.726907,-73.9966706
+nyc/https://www1.nyc.gov/assets/planning/download/pdf/applicants/env-review/nyu_core/14_feis.pdf,Mercer and Great Jones,x,date,17:00-17:15,,,,,,,,,,,,,74,129,88,138,,,,,40.7281852,-73.9955945
+nyc/https://www1.nyc.gov/assets/planning/download/pdf/applicants/env-review/nyu_core/14_feis.pdf,Mercer and Houston,x,date,17:00-17:15,,,,,,,,,,,,,191,91,200,103,,,,,40.7257936,-73.9975962
+nyc/https://www1.nyc.gov/assets/planning/download/pdf/applicants/env-review/nyu_core/14_feis.pdf,University and Waverly,x,date,12:00-12:15,,,,,,,,,,,,,167,153,804,175,,,,,40.7307072,-73.9955702
 nyc/qntransfiguration.pdf,38th Ave and 98th St,x,date,09:00-10:00,,,,,,,,,,,,,83,52,110,91,,,,,40.750181,-73.868009
 nyc/qntransfiguration.pdf,38th Ave and 99th St,x,date,09:00-10:00,,,,,,,,,,,,,104,157,67,86,,,,,40.750465,-73.867151
 nyc/seniors_jamaica_report.pdf,Hillside Ave and 178th St,x,date,09:00-10:00,,,,,,,,,,,,,172,43,222,47,,,,,40.7121393,-73.7853708
